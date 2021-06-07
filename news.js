@@ -1,7 +1,8 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
 const newsSize = 20;
-const news_get = () => {
+
+function news_get () {
 
     var requestOptions = {
         method: 'GET',
@@ -59,4 +60,5 @@ const news_get = () => {
         })
       .catch(error => console.log('error', error));
 }
-module.exports = news_get;
+
+module.exports = { news_get };

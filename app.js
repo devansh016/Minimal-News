@@ -41,7 +41,7 @@ app.use('/feedback', (req,res,next) => {
 
 //Refresh Data
 app.use('/refresh', (req,res,next) => {
-    news.news_get;
+    news.news_get();
     res.status =200;
     res.send('refresh done');
     c_date =  new Date();
@@ -57,11 +57,12 @@ var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at min
     c_date =  new Date();
     fs.appendFileSync('res/logs.txt',`${c_date}: Index File Updation Request Send.\n`);
 
-    news.news_get; 
+    news.news_get(); 
 });
 
 app.listen(port);
 console.log(`Listening at port ${port}`);
+news.news_get();
 
 //Log File Updated
 c_date =  new Date();
