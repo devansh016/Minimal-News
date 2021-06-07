@@ -1,0 +1,101 @@
+<div class="news row">
+                <a href="https://www.business-standard.com/article/markets/market-live-markets-sgx-nifty-pnb-indigo-j-k-bank-rbl-bank-mrf-121060700106_1.html" target="_blank" class="news card">
+                <h3 class="news">1<!-- -->. <!-- -->MARKET LIVE: Sensex gains 100 points; Bajaj twins drag, auto stocks up - Business Standard</h3>
+                <div class="news byline"><span class="news source">Business Standard</span>
+                <span class="news timeago"><time dateTime="2021-06-07T06:19:36Z" title="2021-06-07T06:19:36Z">2 hours ago</time>
+                </span></div><p class="news">LIVE markets: All the Nifty sectoral indices, except Nifty Financial Services, were painted green, led by Nifty Auto index, up 1 per cent</p></a></div><div class="news row">
+                <a href="https://indianexpress.com/article/technology/science/solar-eclipse-2021-date-timings-when-will-annual-solar-eclipse-be-visible-other-details-7347362/" target="_blank" class="news card">
+                <h3 class="news">2<!-- -->. <!-- -->Solar Eclipse 2021 Date, Timings: When will annual solar eclipse be visible, other details - The Indian Express</h3>
+                <div class="news byline"><span class="news source">The Indian Express</span>
+                <span class="news timeago"><time dateTime="2021-06-07T05:55:42Z" title="2021-06-07T05:55:42Z">3 hours ago</time>
+                </span></div><p class="news">Solar Eclipse (Surya Grahan) 2021 Date and Time, Surya Grahan June 2021 Timings in India: Solar Eclipse (Surya Grahan) June 2021 Date, Timings: An annular eclipse is a partial eclipse, and only a part of the sun will appear to have a shadow over it and a 'rin…</p></a></div><div class="news row">
+                <a href="https://www.thehealthsite.com/news/how-chameleon-like-breast-cancer-cells-lead-to-brain-tumors-112555/" target="_blank" class="news card">
+                <h3 class="news">3<!-- -->. <!-- -->How `chameleon-like` breast cancer cells lead to brain tumors - TheHealthSite</h3>
+                <div class="news byline"><span class="news source">Thehealthsite.com</span>
+                <span class="news timeago"><time dateTime="2021-06-07T05:17:40Z" title="2021-06-07T05:17:40Z">4 hours ago</time>
+                </span></div><p class="news">Getting rid of breast cancer cells does not ensure that the disease won’t spread to the brain. A study by City of Hope researchers have explained why?</p></a></div><div class="news row">
+                <a href="https://www.livemint.com/market/mark-to-market/bajaj-finance-investors-need-to-trim-expectations-as-second-covid-wave-hits-11623041890026.html" target="_blank" class="news card">
+                <h3 class="news">4<!-- -->. <!-- -->Bajaj Finance investors need to trim expectations as second covid wave hits - Mint</h3>
+                <div class="news byline"><span class="news source">Livemint</span>
+                <span class="news timeago"><time dateTime="2021-06-07T05:13:33Z" title="2021-06-07T05:13:33Z">4 hours ago</time>
+                </span></div><p class="news">Motilal Oswal has slashed its estimate for Bajaj Finance EPS by 11% for FY22. Analysts at HDFC Securities Ltd warn that the current valuations do not justify this sober reality in the wake of the second wave</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/india-news/lakshadweep-residents-on-hunger-strike-to-protest-partisan-regulations-101623042692802.html" target="_blank" class="news card">
+                <h3 class="news">5<!-- -->. <!-- -->Lakshadweep residents on hunger strike to protest ‘partisan’ regulations - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-06-07T05:11:32Z" title="2021-06-07T05:11:32Z">4 hours ago</time>
+                </span></div><p class="news">Many parliamentarians, former bureaucrats and artists have described the draft regulations as “arbitrary” and insensitive towards the majority community of the islands. | Latest News India</p></a></div><div class="news row">
+                <a href="https://www.business-standard.com/article/technology/twitter-to-launch-super-follows-tool-for-users-with-10k-followers-121060700255_1.html" target="_blank" class="news card">
+                <h3 class="news">6<!-- -->. <!-- -->Twitter to launch Super Follows tool for users with 10K followers - Business Standard</h3>
+                <div class="news byline"><span class="news source">Business Standard</span>
+                <span class="news timeago"><time dateTime="2021-06-07T05:11:00Z" title="2021-06-07T05:11:00Z">4 hours ago</time>
+                </span></div><p class="news">Twitter is set to soon launch the Super Follows feature that will enable some users with at least 10,000 followers to charge for providing exclusive additional content</p></a></div><div class="news row">
+                <a href="https://www.pinkvilla.com/tech/news/sony-s-playstation-5-gets-a-restock-today-june-7-2021-766869" target="_blank" class="news card">
+                <h3 class="news">7<!-- -->. <!-- -->Sony's PlayStation 5 gets a restock today. June 7, 2021 - PINKVILLA</h3>
+                <div class="news byline"><span class="news source">PINKVILLA</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:47:09Z" title="2021-06-07T04:47:09Z">4 hours ago</time>
+                </span></div><p class="news">Many Gamers will be happy to know that Sony will be restocking the PS5 once again. The last restock, which took place on May 17th and May 27th. Both these restocks completely sold out in about 10 mins.</p></a></div><div class="news row">
+                <a href="https://www.aljazeera.com/news/2021/6/7/many-killed-as-two-trains-collide-in-southern-pakistan-officials" target="_blank" class="news card">
+                <h3 class="news">8<!-- -->. <!-- -->Many killed as two trains collide in southern Pakistan - Al Jazeera English</h3>
+                <div class="news byline"><span class="news source">Al Jazeera English</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:41:15Z" title="2021-06-07T04:41:15Z">4 hours ago</time>
+                </span></div><p class="news">At least 32 killed and dozens injured after express train derails and is hit by another train in Sindh province.</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/sports/tennis/french-open/andy-murray-backs-roger-federers-sensible-decision-to-pull-out-of-french-open/articleshow/83299423.cms" target="_blank" class="news card">
+                <h3 class="news">9<!-- -->. <!-- -->Andy Murray backs Roger Federer's 'sensible decision' to pull out of French Open - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:39:00Z" title="2021-06-07T04:39:00Z">4 hours ago</time>
+                </span></div><p class="news">Tennis News: Roger Federer, 39, decided to end his Roland Garros campaign on Sunday, a day after winning a gruelling third-round match against Dominik Koepfer. Eig</p></a></div><div class="news row">
+                <a href="https://www.moneycontrol.com/news/photos/technology/apple-wwdc-2021-iphone-12-series-iphone-11-and-other-iphones-rumoured-to-get-ios-15-6995521.html" target="_blank" class="news card">
+                <h3 class="news">10<!-- -->. <!-- -->Apple WWDC 2021: iPhone 12 series, iPhone 11, and other iPhones rumoured to get iOS 15 - Moneycontrol.com</h3>
+                <div class="news byline"><span class="news source">Moneycontrol</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:36:07Z" title="2021-06-07T04:36:07Z">4 hours ago</time>
+                </span></div><p class="news">iOS 15 release date is unknown at the moment. The iPhone software typically rolls out in September every year.</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/entertainment/bollywood/parineeti-chopra-says-she-was-very-unhappy-with-her-work-knew-it-was-a-bad-film-on-many-occasions-101623039069282.html" target="_blank" class="news card">
+                <h3 class="news">11<!-- -->. <!-- -->Parineeti Chopra says she was ‘very unhappy’ with her work, ‘knew it was a bad film’ on many occasions - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:34:36Z" title="2021-06-07T04:34:36Z">4 hours ago</time>
+                </span></div><p class="news">Parineeti Chopra admitted to doing scenes that she was not convinced about and said that there were many occasions when she ‘knew it was a bad film’ while shooting. | Entertainment News</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/india-news/covishield-produced-more-antibodies-than-covaxin-in-early-study-report-2457812" target="_blank" class="news card">
+                <h3 class="news">12<!-- -->. <!-- -->Covishield Produced More Antibodies Than Covaxin In Early Study: Report - NDTV</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:33:10Z" title="2021-06-07T04:33:10Z">4 hours ago</time>
+                </span></div><p class="news">Covishield vaccine produced more antibodies than Covaxin, according to a preliminary study by Coronavirus Vaccine-induced Antibody Titre (COVAT) involving healthcare workers (HCW) who have received both doses of either of the two vaccines.</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/india/covid-19-india-records-over-1-lakh-new-cases-lowest-in-61-days/articleshow/83298796.cms" target="_blank" class="news card">
+                <h3 class="news">13<!-- -->. <!-- -->Covid-19: India records over 1 lakh new cases, lowest in 61 days - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:30:00Z" title="2021-06-07T04:30:00Z">4 hours ago</time>
+                </span></div><p class="news">India News: India reported a daily rise of 1,00,636 new cases of Covid-19 and 2,427 fatalities in the past 24 hours, the Union health ministry said on Monday. ​​​</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/world-news/amazon-facebook-to-pay-more-taxes-after-new-g-7-deal-what-they-say-2457917" target="_blank" class="news card">
+                <h3 class="news">14<!-- -->. <!-- -->Landmark G-7 Deal To Tax Giants Like Amazon, Facebook For Profits Abroad - NDTV</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:28:44Z" title="2021-06-07T04:28:44Z">4 hours ago</time>
+                </span></div><p class="news">The Group of Seven rich nations secured a landmark deal that could help countries collect more taxes from big companies and enable governments to impose levies on U.S. tech giants such as Amazon.com Inc. and Facebook Inc.</p></a></div><div class="news row">
+                <a href="https://www.news-medical.net/news/20210607/Impact-of-maternal-SARS-CoV-2-infection-on-neonatal-immunology.aspx" target="_blank" class="news card">
+                <h3 class="news">15<!-- -->. <!-- -->Impact of maternal SARS-CoV-2 infection on neonatal immunology - News-Medical.Net</h3>
+                <div class="news byline"><span class="news source">News-Medical.Net</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:15:00Z" title="2021-06-07T04:15:00Z">5 hours ago</time>
+                </span></div><p class="news">Although extensive studies have been carried out on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and evidence exists that pregnant women are at elevated risk of severe COVID-19, the impact of maternal infection on the fetus is not cl…</p></a></div><div class="news row">
+                <a href="https://indianexpress.com/article/entertainment/bollywood/evelyn-sharma-shares-first-photo-as-she-marries-boyfriend-tushaan-bhindi-7347298/" target="_blank" class="news card">
+                <h3 class="news">16<!-- -->. <!-- -->Evelyn Sharma shares first photo as she marries boyfriend Tushaan Bhindi: ‘Forever’ - The Indian Express</h3>
+                <div class="news byline"><span class="news source">The Indian Express</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:02:00Z" title="2021-06-07T04:02:00Z">5 hours ago</time>
+                </span></div><p class="news">Yeh Jawaani Hai Deewani actor Evelyn Sharma has married her longtime boyfriend. The actor dropped the first photo from her wedding on Instagram with "Forever" as caption.</p></a></div><div class="news row">
+                <a href="https://www.indianweb2.com/2021/06/the-most-powerful-telescope-ever-built.html" target="_blank" class="news card">
+                <h3 class="news">17<!-- -->. <!-- -->The Most Powerful Telescope Ever Built and Worth $10 Bn To Launch in October - IndianWeb2.com</h3>
+                <div class="news byline"><span class="news source">Indianweb2.com</span>
+                <span class="news timeago"><time dateTime="2021-06-07T04:00:00Z" title="2021-06-07T04:00:00Z">5 hours ago</time>
+                </span></div><p class="news">Image ~   James Webb Space Telescope NASA’s James Webb Space  Telescope (Webb), which is touted as the most powerful telescope ever built, r...</p></a></div><div class="news row">
+                <a href="https://www.livemint.com/market/stock-market-news/in-these-rakesh-jhunjhunwala-portfolio-stocks-fiis-mutual-funds-hike-stakes-11623037615812.html" target="_blank" class="news card">
+                <h3 class="news">18<!-- -->. <!-- -->In these Rakesh Jhunjhunwala portfolio stocks, FIIs, mutual funds hike stakes - Mint</h3>
+                <div class="news byline"><span class="news source">Livemint</span>
+                <span class="news timeago"><time dateTime="2021-06-07T03:56:11Z" title="2021-06-07T03:56:11Z">5 hours ago</time>
+                </span></div><p class="news">FIIs and mutual funds have increased their stake in four Rakesh Jhunjhunwala portfolio stocks — Nagarjuna Construction Company (NCC), Tata Communications, Tata Motors and Federal Bank</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/india-news/farmers-protest-in-haryanas-tohana-an-unlikely-protester-farmers-bring-cow-to-police-station-2457884" target="_blank" class="news card">
+                <h3 class="news">19<!-- -->. <!-- -->In Haryana, Farmers Bring Cow To Police Station As Fellow 'Protester' - NDTV</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-06-07T03:27:03Z" title="2021-06-07T03:27:03Z">5 hours ago</time>
+                </span></div><p class="news">Farmers, who continued their sit-in at a police station in Fatehabad's Tohana demanding the release of two arrested for surrounding an MLA's home, brought with them a cow to the police station.</p></a></div><div class="news row">
+                <a href="https://sports.ndtv.com/cricket/england-suspend-ollie-robinson-from-international-cricket-pending-disciplinary-probe-2457869" target="_blank" class="news card">
+                <h3 class="news">20<!-- -->. <!-- -->England Suspend Ollie Robinson From International Cricket Pending "Disciplinary" Probe - NDTVSports.com</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-06-07T03:13:00Z" title="2021-06-07T03:13:00Z">6 hours ago</time>
+                </span></div><p class="news">Ollie Robinson was suspended from all international cricket pending an investigation into racist and sexist Twitter messages, the ECB announced.</p></a></div>

@@ -1,0 +1,25 @@
+{
+  "name": "minimal-news",
+  "version": "1.0.0",
+  "description": "A text only news site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devansh Chaudhary",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "node-schedule": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devansh016/Minimal-News.git"
+  },
+  "bugs": {
+    "url": "https://github.com/devansh016/Minimal-News/issues"
+  },
+  "homepage": "https://github.com/devansh016/Minimal-News#readme"
+}
