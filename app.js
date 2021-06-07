@@ -44,6 +44,8 @@ app.use('/refresh', (req,res,next) => {
     news.news_get;
     res.status =200;
     res.send('refresh done');
+    c_date =  new Date();
+    fs.appendFileSync('res/logs.txt',`${c_date}: Refresh Done.\n`);
 });
 
 app.use('/', (req,res,next) => {
