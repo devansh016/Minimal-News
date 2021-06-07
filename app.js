@@ -11,7 +11,7 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
-
+var c_date =  new Date();
 //To Send Favicon
 app.use('/favicon.ico', express.static('res/favicon.png'));
 
@@ -39,13 +39,20 @@ app.use('/feedback', (req,res,next) => {
     res.sendFile(path.join(__dirname, 'feedback.html'));
 });
 
+//Refresh Data
+app.use('/refresh', (req,res,next) => {
+    news.news_get;
+    res.status =200;
+    res.send('refresh done');
+});
+
 app.use('/', (req,res,next) => {
     res.sendFile(path.join(__dirname, '/index.html'));
 });
 
 var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at minute 1 and 1 sec
     //Log File Updated
-    var c_date =  new Date();
+    c_date =  new Date();
     fs.appendFileSync('res/logs.txt',`${c_date}: Index File Updation Request Send.\n`);
 
     news.news_get; 
@@ -55,5 +62,5 @@ app.listen(port);
 console.log(`Listening at port ${port}`);
 
 //Log File Updated
-var c_date =  new Date();
+c_date =  new Date();
 fs.appendFileSync('res/logs.txt',`${c_date}: Listening at port ${port}\n`);
