@@ -28,6 +28,7 @@ app.use('/admin/feedback', (req,res,next) => {
 app.use('/api/feedback', (req,res,next) => {
     var fb = JSON.stringify(req.body);
     fs.appendFileSync('res/feedback.txt',`\n ${c_date}: ${fb}`)
+    console.log(fb);
     res.status = 200;
     res.redirect('/');
     return res.send();
@@ -42,7 +43,7 @@ app.use('/', (req,res,next) => {
     res.sendFile(path.join(__dirname, '/index.html'));
 });
 
-var j = schedule.scheduleJob('* 1 * * * *', function() { //run every hour at minute 1
+var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at minute 1 and 1 sec
     //Log File Updated
     var c_date =  new Date();
     fs.appendFileSync('res/logs.txt',`${c_date}: Index File Updation Request Send.\n`);
