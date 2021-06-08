@@ -37,7 +37,9 @@ function news_get () {
             }
             fs.writeFileSync('res/newsArticles.txt', pr , function (err) {
                 if (err) throw err;
-                console.log('Data Fetched and Saved.');
+
+                //Logs Updated
+                console.log('News Articles Downloaded');
             });
 
             //CLEARING INDEX FILE
@@ -51,9 +53,8 @@ function news_get () {
             fs.appendFileSync('index.html', newsArticles);
             fs.appendFileSync('index.html', data2);
 
-            //Log File Updation
-            var c_date =  new Date();
-            fs.appendFileSync('res/logs.txt',`${c_date}: Index File Updated.\n`);
+            //Logs Updated
+            console.log('Index File Updated');
 
         }).catch((err) => {
         console.log(err);

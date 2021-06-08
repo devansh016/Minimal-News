@@ -11,14 +11,11 @@ const app = express();
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
-var c_date =  new Date();
+
+
 //To Send Favicon
 app.use('/favicon.ico', express.static('res/favicon.png'));
 
-//To Get Logs File
-app.use('/admin/logs', (req,res,next) => {
-    res.sendFile(path.join(__dirname, 'res/logs.txt'));
-});
 //To Get FeedBack File
 app.use('/admin/feedback', (req,res,next) => {
     res.sendFile(path.join(__dirname, 'res/feedback.txt'));
@@ -28,7 +25,10 @@ app.use('/admin/feedback', (req,res,next) => {
 app.use('/api/feedback', (req,res,next) => {
     var fb = JSON.stringify(req.body);
     fs.appendFileSync('res/feedback.txt',`\n ${c_date}: ${fb}`)
+
+    //Logs Updated
     console.log(fb);
+    
     res.status = 200;
     res.redirect('/');
     return res.send();
@@ -41,11 +41,13 @@ app.use('/feedback', (req,res,next) => {
 
 //Refresh Data
 app.use('/refresh', (req,res,next) => {
+
     news.news_get();
     res.status =200;
     res.send('refresh done');
-    c_date =  new Date();
-    fs.appendFileSync('res/logs.txt',`${c_date}: Refresh Done.\n`);
+
+    //Logs Updated
+    console.log("Refresh Done.");
 });
 
 app.use('/', (req,res,next) => {
@@ -53,17 +55,15 @@ app.use('/', (req,res,next) => {
 });
 
 var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at minute 1 and 1 sec
-    //Log File Updated
-    c_date =  new Date();
-    fs.appendFileSync('res/logs.txt',`${c_date}: Index File Updation Request Send.\n`);
+
+    //Logs Updated
+    console.log("Index File Updation Request Send." );
 
     news.news_get(); 
 });
 
 app.listen(port);
 console.log(`Listening at port ${port}`);
-news.news_get();
 
-//Log File Updated
-c_date =  new Date();
-fs.appendFileSync('res/logs.txt',`${c_date}: Listening at port ${port}\n`);
+//Updating Data First Launch
+news.news_get();
