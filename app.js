@@ -50,6 +50,11 @@ app.use('/refresh', (req,res,next) => {
     console.log("Refresh Done.");
 });
 
+//To server CSS File
+app.get('/res/style.css', function(req, res) {
+    res.sendFile(__dirname + "/" + "res" + "/" + "style.css");
+});
+
 app.use('/', (req,res,next) => {
     res.sendFile(path.join(__dirname, '/index.html'));
 });
