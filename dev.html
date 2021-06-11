@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-theme="dark">
+<html data-theme="">
 
 <head>
 	<meta charSet="UTF-8" />
@@ -17,7 +17,7 @@
 					<li class="navbar"><a href="/" class="navbar">Minimal News</a></li>
 					<li class="navbar">
 						<a href="/feedback" class="navbar">Feedback</a> 
-						<div class="invertIcon material-icons md-25">invert_colors</div>
+						<div class="invertIcon material-icons md-25" onclick="changeTheme()">invert_colors</div>
 					</li>
 				</ul>
 			</nav>
@@ -136,5 +136,28 @@
 
 	gtag('config', 'G-C5FSFLE590');
 	</script>
+
+	<script>
+		let trans = () => {
+			document.documentElement.classList.add('transition');
+			window.setTimeout(()=> {
+				document.documentElement.classList.remove('transition')
+			}, 250)
+		}
+
+		function changeTheme(){
+			if(document.documentElement.getAttribute('data-theme') == 'dark'){
+				trans();
+				document.documentElement.setAttribute('data-theme', '')
+			}
+			else{
+				trans();
+				document.documentElement.setAttribute('data-theme', 'dark');
+			}
+		}
+		
+		
+	</script>
+
 </body>
 </html>

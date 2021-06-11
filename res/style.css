@@ -22,6 +22,7 @@ body {
 }
 
 nav.navbar {
+    user-select: none;
     text-align: center;
     max-width: 880px;
     margin: 0 auto;
@@ -52,6 +53,7 @@ li.navbar {
 
 a.navbar {
     color: var(--primaryAccent);
+    font-weight: 600;
     -webkit-text-decoration: none;
     text-decoration: none;
     font-size: 15px;
@@ -168,6 +170,7 @@ a.navbar {
     background: var(--primaryAccent);
 }
 
+/* Theme Invert Icon */
 .invertIcon{
     box-sizing: content-box;
     height: 25px;
@@ -179,9 +182,17 @@ a.navbar {
     margin-left: 2vw;
     display: inline;
     color: var(--textHeadlines);
-    user-select: none;
     cursor: pointer;
 }
 .material-icons.md-25 {
     font-size: 25px;
+}
+
+/* Theme Transition */
+html.transition,
+html.transition *,
+html.transition *:before,
+html.transition *:after {
+  transition: all 750ms !important;
+  transition-delay: 0 !important;
 }
