@@ -152,3 +152,18 @@ a.navbar {
     border-radius: 5px;
     background-color: var(--bgSubcards);
 }
+
+/* Custom Scroll Bar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background: var(--cardHoverAccent);
+}
+::-webkit-scrollbar-thumb:hover {
+    background: var(--textDescription);
+}
