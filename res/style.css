@@ -6,6 +6,14 @@ html{
     --cardHoverAccent: rgb(228, 242, 255);
     --bgSubcards: rgb(208, 223, 238);
 }
+html[data-theme='dark']{
+    --bg: rgb(0, 1, 13);
+    --linkColor: rgb(68, 111, 197);
+    --textDescription: rgb(140, 140, 172);
+    --textHeadlines: rgb(237, 237, 237);
+    --cardHoverAccent: rgb(11, 14, 44);
+    --bgSubcards: rgb(18, 27, 48);
+}
 
 body {
     margin: 0;
