@@ -4,12 +4,13 @@ html{
     --textDescription: rgb(51, 51, 51);
     --textHeadlines: rgb(67, 67, 67);
     --cardHoverAccent: rgb(228, 242, 255);
-    --bgSubcards: rgba(6, 125, 247, 0.125);
+    --bgSubcards: rgb(208, 223, 238);
 }
 
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica, sans-serif;
+    background-color: var(--bg);
 }
 
 nav.navbar {
@@ -42,7 +43,7 @@ li.navbar {
 }
 
 a.navbar {
-    color: rgb(6, 125, 247);
+    color: var(--linkColor);
     -webkit-text-decoration: none;
     text-decoration: none;
     font-size: 15px;
@@ -50,7 +51,7 @@ a.navbar {
 
 .hero.news {
     width: 100%;
-    color: rgb(51, 51, 51);
+    color: var(--textDescription);
 }
 
 .title.news {
@@ -111,12 +112,13 @@ a.navbar {
     text-align: left;
     -webkit-text-decoration: none;
     text-decoration: none;
-    color: rgb(67, 67, 67);
+    color: var(--textHeadlines);
     width: 100%;
 }
 
 .card.news:hover {
-    background-color: rgb(228, 242, 255);
+    background-color: var(--cardHoverAccent);
+    border-radius: 15px;
 }
 
 .card.news h3.news {
@@ -128,7 +130,7 @@ a.navbar {
     margin: 0;
     padding: 6px 0 0;
     font-size: 15px;
-    color: rgb(51, 51, 51);
+    color: var(--textDescription);
 }
 
 .card.news .byline.news {
@@ -140,5 +142,5 @@ a.navbar {
     padding: 2px 5px;
     margin-right: 5px;
     border-radius: 5px;
-    background-color: rgba(6, 125, 247, 0.125);
+    background-color: var(--bgSubcards);
 }
