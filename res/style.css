@@ -167,3 +167,21 @@ a.navbar {
 ::-webkit-scrollbar-thumb:hover {
     background: var(--primaryAccent);
 }
+
+.invertIcon{
+    box-sizing: content-box;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: solid 5px var(--bgSubcards);
+    background-color: var(--bgSubcards);
+    margin-top: -1vh;
+    margin-left: 2vw;
+    display: inline;
+    color: var(--textHeadlines);
+    user-select: none;
+    cursor: pointer;
+}
+.material-icons.md-25 {
+    font-size: 25px;
+}
