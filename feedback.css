@@ -15,6 +15,10 @@ html[data-theme='dark']{
     --bgSubcards:       rgb(18, 27, 48);
 }
 
+html {
+    margin-left: -10px;
+}
+
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica, sans-serif;
