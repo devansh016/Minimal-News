@@ -34,9 +34,17 @@ app.use('/api/feedback', (req,res,next) => {
     return res.send();
 });
 
+//To server CSS File
+app.get('/css/index.css', function(req, res) {
+    res.sendFile(__dirname + "/" + "res" + "/" + "css" + "/" + "style_index.css");
+});
+app.get('/css/feedback.css', function(req, res) {
+    res.sendFile(__dirname + "/" + "res" + "/" + "css" + "/" + "style_feedback.css");
+});
+
 //To Send Feedback File
 app.use('/feedback', (req,res,next) => {
-    res.sendFile(path.join(__dirname, 'feedback.html'));
+    res.sendFile(path.join(__dirname, "/" + "views" + "/" + "feedback.html"));
 });
 
 //Refresh Data
@@ -51,7 +59,7 @@ app.use('/refresh', (req,res,next) => {
 });
 
 app.use('/', (req,res,next) => {
-    res.sendFile(path.join(__dirname, '/index.html'));
+    res.sendFile(path.join(__dirname, "/" + "views" + "/" + "index.html"));
 });
 
 var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at minute 1 and 1 sec
@@ -64,6 +72,5 @@ var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at min
 
 app.listen(port);
 console.log(`Listening at port ${port}`);
-
 //Updating Data First Launch
 news.news_get();
