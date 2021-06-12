@@ -43,15 +43,15 @@ function news_get () {
             });
 
             //CLEARING INDEX FILE
-            fs.writeFileSync('index.html',' ');
+            fs.writeFileSync('views/index.html',' ');
 
             //Updating Data IN index file
-            const data1 = fs.readFileSync('res/news1.txt', 'utf8');
+            const data1 = fs.readFileSync('res/Html_1.txt', 'utf8');
             const newsArticles = fs.readFileSync('res/newsArticles.txt', 'utf8');
-            const data2 = fs.readFileSync('res/news2.txt', 'utf8');
-            fs.appendFileSync('index.html', data1);
-            fs.appendFileSync('index.html', newsArticles);
-            fs.appendFileSync('index.html', data2);
+            const data2 = fs.readFileSync('res/Html_2.txt', 'utf8');
+            fs.appendFileSync('views/index.html', data1);
+            fs.appendFileSync('views/index.html', newsArticles);
+            fs.appendFileSync('views/index.html', data2);
 
             //Logs Updated
             console.log('Index File Updated');

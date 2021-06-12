@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charSet="UTF-8" />
+  <title>Minimal News</title>
+  <link rel="stylesheet" href="/css/feedback.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+</head>
+
+<body>
+	<div id="__next">
+		<div class="news">
+			<nav class="navbar">
+				<ul class="navbar">
+					<li class="navbar"><a href="/" class="navbar">About</a></li>
+					<li class="navbar"><a href="/" class="navbar">Minimal News</a></li>
+					<li class="navbar">
+						<a href="/feedback" class="navbar">Feedback</a> 
+						<div class="invertIcon material-icons md-25" onclick="changeTheme()">invert_colors</div>
+					</li>
+				</ul>
+			</nav>
+        </div>
+        <div class="contactContainer fade-in">
+            <form id="contactMe" action="/api/feedback" method="POST">
+              <h2>Get in Touch</h2>
+              <h4>Do have a message for me? Feel free to drop me an email!</h4>
+              <fieldset>
+                <input name="name" placeholder="Your Name" type="text" tabindex="1" required autofocus>
+              </fieldset>
+              <fieldset>
+                <input name="email" placeholder="Your Email Address" type="email" tabindex="2" required>
+              </fieldset>
+              <fieldset>
+                <textarea name="message" placeholder="Type your message here..." tabindex="3" required></textarea>
+              </fieldset>
+              <fieldset>
+                <button name="submit" type="submit" id="contactSubmit" data-submit="...Sending">Submit</button>
+              </fieldset>
+            </form>
+          </div>
+    </div>
+
+    <script>
+      let trans = () => {
+        document.documentElement.classList.add('transition');
+        window.setTimeout(()=> {
+          document.documentElement.classList.remove('transition')
+        }, 250)
+      }
+  
+      function changeTheme(){
+        if(document.documentElement.getAttribute('data-theme') == 'dark'){
+          trans();
+          document.documentElement.setAttribute('data-theme', '')
+        }
+        else{
+          trans();
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      }
+      
+    </script>
+</body>
+</html>

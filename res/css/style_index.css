@@ -56,7 +56,7 @@ a.navbar {
     font-weight: 600;
     -webkit-text-decoration: none;
     text-decoration: none;
-    font-size: 15px;
+    font-size: 1rem;
 }
 
 .hero.news {
@@ -178,14 +178,14 @@ a.navbar {
     border-radius: 50%;
     border: solid 5px var(--bgSubcards);
     background-color: var(--bgSubcards);
-    margin-top: -1vh;
+    margin-top: -0.5rem;
     margin-left: 2vw;
     display: inline;
     color: var(--textHeadlines);
     cursor: pointer;
 }
 .material-icons.md-25 {
-    font-size: 25px;
+    font-size: 1.5rem;
 }
 
 /* Theme Transition */
