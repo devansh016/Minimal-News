@@ -1,0 +1,169 @@
+html{
+    --bg:               rgb(237, 237, 237);
+    --primaryAccent:    rgb(6, 125, 247);
+    --textDescription:  rgb(51, 51, 51);
+    --textHeadlines:    rgb(67, 67, 67);
+    --cardHoverAccent:  rgb(228, 242, 255);
+    --bgSubcards:       rgb(208, 223, 238);
+}
+html[data-theme='dark']{
+    --bg:               rgb(0, 1, 13);
+    --primaryAccent:    rgb(68, 111, 197);
+    --textDescription:  rgb(140, 140, 172);
+    --textHeadlines:    rgb(237, 237, 237);
+    --cardHoverAccent:  rgb(11, 14, 44);
+    --bgSubcards:       rgb(18, 27, 48);
+}
+
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica, sans-serif;
+    background-color: var(--bg);
+}
+
+nav.navbar {
+    user-select: none;
+    text-align: center;
+    max-width: 880px;
+    margin: 0 auto;
+}
+
+ul.navbar {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    -ms-flex-pack: justify;
+    justify-content: space-between;
+}
+
+nav.navbar>ul.navbar {
+    padding: 4px 10px;
+}
+
+li.navbar {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 6px 8px;
+}
+
+a.navbar {
+    color: var(--primaryAccent);
+    font-weight: 600;
+    -webkit-text-decoration: none;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.contactContainer {
+max-width: 400px;
+width: 100%;
+margin: 0 auto;
+}
+
+#contactMe {
+margin: 50px 0;
+padding: 2em;
+border: 4px solid #000;
+font-family: 'Open Sans', Arial, sans-serif;
+}
+
+#contactMe h2, h4{
+margin-bottom: 1em;
+}
+
+#contactMe input[type="text"],
+#contactMe input[type="email"],
+#contactMe textarea {
+width: 100%;
+border: 1px solid #ccc;
+margin: 0 0 5px;
+padding: 10px;
+}
+
+#contactMe textarea {
+height: 100px;
+max-width: 100%;
+resize: none;
+font-family: 'Open Sans', Arial, sans-serif;
+}
+
+#contactSubmit {
+cursor: pointer;
+width: 100%;
+border: none;
+background: #000;
+color: #fff;
+margin: 0 0 5px;
+padding: 20px;
+font-size: 15px;
+}
+
+#contactSubmit:hover {
+background: #333;
+-webkit-transition: background 0.3s ease-in-out;
+-moz-transition: background 0.3s ease-in-out;
+transition: background-color 0.3s ease-in-out;
+}
+
+#contactMe input:focus,
+#contactMe textarea:focus {
+outline: 0;
+border: 1px solid #aaa;
+}
+
+::-webkit-input-placeholder {
+color: #888;
+}
+
+:-moz-placeholder {
+color: #888;
+}
+
+::-moz-placeholder {
+color: #888;
+}
+
+:-ms-input-placeholder {
+color: #888;
+}
+
+
+fieldset {
+-webkit-margin-start: 0;
+-webkit-margin-end: 0;
+-webkit-padding-before: 0;
+-webkit-padding-start: 0;
+-webkit-padding-end: 0;
+-webkit-padding-after: 0;
+}
+
+fieldset {
+border: medium none !important;
+margin: 0 0 10px;
+min-width: 100%;
+padding: 0;
+width: 100%;
+}
+
+/* Theme Invert Icon */
+.invertIcon{
+    box-sizing: content-box;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    border: solid 5px var(--bgSubcards);
+    background-color: var(--bgSubcards);
+    margin-top: -1vh;
+    margin-left: 2vw;
+    display: inline;
+    color: var(--textHeadlines);
+    cursor: pointer;
+}
+.material-icons.md-25 {
+    font-size: 25px;
+}

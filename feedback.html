@@ -2,141 +2,10 @@
 <html>
 
 <head>
-	<meta charSet="UTF-8" />
-	<title>Minimal News</title>
-    <style>	body {
-		margin: 0;
-		font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica, sans-serif;
-	}
-	
-	nav.navbar {
-		text-align: center;
-		max-width: 880px;
-		margin: 0 auto;
-	}
-	
-	ul.navbar {
-		display: -webkit-box;
-		display: -webkit-flex;
-		display: -ms-flexbox;
-		display: flex;
-		-webkit-box-pack: justify;
-		-webkit-justify-content: space-between;
-		-ms-flex-pack: justify;
-		justify-content: space-between;
-	}
-	
-	nav.navbar>ul.navbar {
-		padding: 4px 10px;
-	}
-	
-	li.navbar {
-		display: -webkit-box;
-		display: -webkit-flex;
-		display: -ms-flexbox;
-		display: flex;
-		padding: 6px 8px;
-	}
-	
-	a.navbar {
-		color: #067df7;
-		-webkit-text-decoration: none;
-		text-decoration: none;
-		font-size: 13px;
-	}
-    .contactContainer {
-  max-width: 400px;
-  width: 100%;
-  margin: 0 auto;
-}
-
-#contactMe {
-  margin: 50px 0;
-  padding: 2em;
-  border: 4px solid #000;
-  font-family: 'Open Sans', Arial, sans-serif;
-}
-
-#contactMe h2, h4{
-  margin-bottom: 1em;
-}
-
-#contactMe input[type="text"],
-#contactMe input[type="email"],
-#contactMe textarea {
-  width: 100%;
-  border: 1px solid #ccc;
-  margin: 0 0 5px;
-  padding: 10px;
-}
-
-#contactMe textarea {
-  height: 100px;
-  max-width: 100%;
-  resize: none;
-  font-family: 'Open Sans', Arial, sans-serif;
-}
-
-#contactSubmit {
-  cursor: pointer;
-  width: 100%;
-  border: none;
-  background: #000;
-  color: #fff;
-  margin: 0 0 5px;
-  padding: 20px;
-  font-size: 15px;
-}
-
-#contactSubmit:hover {
-  background: #333;
-  -webkit-transition: background 0.3s ease-in-out;
-  -moz-transition: background 0.3s ease-in-out;
-  transition: background-color 0.3s ease-in-out;
-}
-
-#contactMe input:focus,
-#contactMe textarea:focus {
-  outline: 0;
-  border: 1px solid #aaa;
-}
-
-::-webkit-input-placeholder {
-  color: #888;
-}
-
-:-moz-placeholder {
-  color: #888;
-}
-
-::-moz-placeholder {
-  color: #888;
-}
-
-:-ms-input-placeholder {
-  color: #888;
-}
-
-
-fieldset {
-  -webkit-margin-start: 0;
-  -webkit-margin-end: 0;
-  -webkit-padding-before: 0;
-  -webkit-padding-start: 0;
-  -webkit-padding-end: 0;
-  -webkit-padding-after: 0;
-}
-
-fieldset {
-  border: medium none !important;
-  margin: 0 0 10px;
-  min-width: 100%;
-  padding: 0;
-  width: 100%;
-}
-
-
-	</style>
+  <meta charSet="UTF-8" />
+  <title>Minimal News</title>
+  <link rel="stylesheet" href="/feedback.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 <body>
@@ -146,7 +15,10 @@ fieldset {
 				<ul class="navbar">
 					<li class="navbar"><a href="/" class="navbar">About</a></li>
 					<li class="navbar"><a href="/" class="navbar">Minimal News</a></li>
-					<li class="navbar"><a href="/" class="navbar">Feedback</a></li>
+					<li class="navbar">
+						<a href="/feedback" class="navbar">Feedback</a> 
+						<div class="invertIcon material-icons md-25" onclick="changeTheme()">invert_colors</div>
+					</li>
 				</ul>
 			</nav>
         </div>
@@ -169,5 +41,26 @@ fieldset {
             </form>
           </div>
     </div>
+
+    <script>
+      let trans = () => {
+        document.documentElement.classList.add('transition');
+        window.setTimeout(()=> {
+          document.documentElement.classList.remove('transition')
+        }, 250)
+      }
+  
+      function changeTheme(){
+        if(document.documentElement.getAttribute('data-theme') == 'dark'){
+          trans();
+          document.documentElement.setAttribute('data-theme', '')
+        }
+        else{
+          trans();
+          document.documentElement.setAttribute('data-theme', 'dark');
+        }
+      }
+      
+    </script>
 </body>
 </html>
