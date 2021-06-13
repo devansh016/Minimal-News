@@ -1,29 +1,4 @@
- <!DOCTYPE html>
-<html data-theme="">
-
-<head>
-	<meta charSet="UTF-8" />
-	<title>Minimal News</title>
-    <link rel="stylesheet" href="css/main.css">
-	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-</head>
-
-<body>
-	<div id="__next">
-		<div class="news">
-			<nav class="navbar">
-				<ul class="navbar">
-					<li class="navbar"><a href="https://github.com/devansh016/Minimal-News" class="navbar">About</a></li>
-					<li class="navbar"><a href="/" class="navbar">Minimal News</a></li>
-					<li class="navbar">
-						<a href="/feedback" class="navbar">Feedback</a> 
-						<div class="invertIcon material-icons md-25" onclick="changeTheme()">invert_colors</div>
-					</li>
-				</ul>
-			</nav>
-			<div class="news hero" id ="ans">
-			</div>
-		</div><div class="news row">
+<div class="news row">
                 <a href="https://sports.ndtv.com/tennis/live-french-open-2021-novak-djokovic-vs-stefanos-tsitsipas-mens-final-updates-2462941" target="_blank" class="news card">
                 <h3 class="news">1<!-- -->. <!-- -->French Open 2021 Men's Singles Final Live Updates: Novak Djokovic Wins 4th Set, Takes The Final Into A Decider | Tennis News - NDTVSports.com</h3>
                 <div class="news byline"><span class="news source">NDTV News</span>
@@ -123,40 +98,4 @@
                 <h3 class="news">20<!-- -->. <!-- -->'Rahul Gandhi must answer': Oil minister on fuel price hikes in Congress-ruled states - Hindustan Times</h3>
                 <div class="news byline"><span class="news source">Hindustan Times</span>
                 <span class="news timeago"><time dateTime="2021-06-13T11:44:03Z" title="2021-06-13T11:44:03Z">6 hours ago</time>
-                </span></div><p class="news">Pradhan said Gandhi should ask chief ministers of states where Congress is in power if he is concerned about the burden on the common man. Fuel prices in seven Indian states like Rajasthan, Maharashtra, Madhya Pradesh and Karnataka have already crossed the ₹1…</p></a></div></div>
-		</div>
-	</div>
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=G-C5FSFLE590"></script>
-	<script>
-	window.dataLayer = window.dataLayer || [];
-	function gtag(){dataLayer.push(arguments);}
-	gtag('js', new Date());
-
-	gtag('config', 'G-C5FSFLE590');
-	</script>
-	
-	<script>
-		let trans = () => {
-			document.documentElement.classList.add('transition');
-			window.setTimeout(()=> {
-				document.documentElement.classList.remove('transition')
-			}, 250)
-		}
-
-		function changeTheme(){
-			if(document.documentElement.getAttribute('data-theme') == 'dark'){
-				trans();
-				document.documentElement.setAttribute('data-theme', '')
-			}
-			else{
-				trans();
-				document.documentElement.setAttribute('data-theme', 'dark');
-			}
-		}
-		
-		
-	</script>
-
-</body>
-</html>
+                </span></div><p class="news">Pradhan said Gandhi should ask chief ministers of states where Congress is in power if he is concerned about the burden on the common man. Fuel prices in seven Indian states like Rajasthan, Maharashtra, Madhya Pradesh and Karnataka have already crossed the ₹1…</p></a></div>

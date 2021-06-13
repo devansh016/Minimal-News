@@ -13,13 +13,13 @@ app.use(bodyParser.json());
 app.use(bodyParser.raw());
 
 
-//To Send Favicon
-app.use('/favicon.ico', express.static('res/favicon.png'));
-
 //To Get FeedBack File
 app.use('/admin/feedback', (req,res,next) => {
     res.sendFile(path.join(__dirname, 'res/feedback.txt'));
 });
+
+//Serve static files
+app.use(express.static(path.join(__dirname, 'public')));
 
 //Feedback API
 app.use('/api/feedback', (req,res,next) => {
@@ -32,14 +32,6 @@ app.use('/api/feedback', (req,res,next) => {
     res.status = 200;
     res.redirect('/');
     return res.send();
-});
-
-//To server CSS File
-app.get('/css/index.css', function(req, res) {
-    res.sendFile(__dirname + "/" + "res" + "/" + "css" + "/" + "style_index.css");
-});
-app.get('/css/feedback.css', function(req, res) {
-    res.sendFile(__dirname + "/" + "res" + "/" + "css" + "/" + "style_feedback.css");
 });
 
 //To Send Feedback File
@@ -58,10 +50,6 @@ app.use('/refresh', (req,res,next) => {
     console.log("Refresh Done.");
 });
 
-//To server CSS File
-app.get('/res/style.css', function(req, res) {
-    res.sendFile(__dirname + "/" + "res" + "/" + "style.css");
-});
 
 app.use('/', (req,res,next) => {
     res.sendFile(path.join(__dirname, "/" + "views" + "/" + "index.html"));
