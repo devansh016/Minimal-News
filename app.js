@@ -12,20 +12,8 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
 
-//To Get FeedBack File
-app.use('/admin/feedback', (req,res,next) => {
-    res.sendFile(path.join(__dirname, 'res/feedback.txt'));
-});
-
 //Serve static files
 app.use(express.static(path.join(__dirname, 'public')));
-
-//Feedback API
-app.use('/api/feedback', (req,res,next) => {
-    res.status = 200;
-    res.redirect('/');
-    return res.send();
-});
 
 //Refresh Data
 app.use('/refresh', (req,res,next) => {
@@ -33,13 +21,17 @@ app.use('/refresh', (req,res,next) => {
     res.status =200;
     res.send('refresh done');
 });
-
+// Serve Feedback page
+app.use('/feedback', (req,res,next) => {
+    res.sendFile(path.join(__dirname, "/" + "views" + "/" + "feedback.html"));
+});
+//Serve Index Page
 app.use('/', (req,res,next) => {
     res.sendFile(path.join(__dirname, "/" + "views" + "/" + "index.html"));
 });
 
+
 var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at minute 1 and 1 sec
-    //Logs Updated
     console.log("Index File Updation Request Send." );
     news.news_get(); 
 });
