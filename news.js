@@ -1,6 +1,9 @@
 const fs = require('fs');
 const fetch = require('node-fetch');
-const newsSize = 20;
+require('dotenv').config();
+const newsSize = process.env.PAGE_SIZE;
+const apiKey = process.env.NEWS_API;
+const country = process.env.NEWS_COUNTRY;
 
 function news_get () {
 
@@ -8,13 +11,12 @@ function news_get () {
         method: 'GET',
         redirect: 'follow'
       };
-      
-      fetch(`https://newsapi.org/v2/top-headlines?country=in&apiKey=906a01de90974496bab3497d0a6f281d&pageSize=${newsSize}`, requestOptions)
+      fetch(`https://newsapi.org/v2/top-headlines?country=${country}&apiKey=${apiKey}&pageSize=${newsSize}`, requestOptions)
       .then(response => response.json())
       .then(json => {
             let pr;
             pr="";
-            for (var i=0; i<newsSize; i++){
+            for (var i=0; i < newsSize; i++){
                 var article_title = json.articles[i].title;
                 var article_desc = json.articles[i].description;
                 var article_url = json.articles[i].url;
@@ -37,25 +39,7 @@ function news_get () {
             }
             fs.writeFileSync('res/newsArticles.txt', pr , function (err) {
                 if (err) throw err;
-
-                //Logs Updated
-                console.log('News Articles Downloaded');
             });
-
-            //CLEARING INDEX FILE
-            fs.writeFileSync('views/index.html',' ');
-
-            //Updating Data IN index file
-            const data1 = fs.readFileSync('res/Html_1.txt', 'utf8');
-            const newsArticles = fs.readFileSync('res/newsArticles.txt', 'utf8');
-            const data2 = fs.readFileSync('res/Html_2.txt', 'utf8');
-            fs.appendFileSync('views/index.html', data1);
-            fs.appendFileSync('views/index.html', newsArticles);
-            fs.appendFileSync('views/index.html', data2);
-
-            //Logs Updated
-            console.log('Index File Updated');
-
         }).catch((err) => {
         console.log(err);
         })

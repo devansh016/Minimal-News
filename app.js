@@ -12,6 +12,9 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
 
+app.set('view engine', 'ejs');
+app.set('views', 'views');
+
 //Serve static files
 app.use(express.static(path.join(__dirname, 'public')));
 
@@ -27,7 +30,10 @@ app.use('/feedback', (req,res,next) => {
 });
 //Serve Index Page
 app.use('/', (req,res,next) => {
-    res.sendFile(path.join(__dirname, "/" + "views" + "/" + "index.html"));
+    var article = fs.readFileSync('res/newsArticles.txt', 'utf8');
+    res.render('index.ejs', {
+        data: article
+    });
 });
 
 
