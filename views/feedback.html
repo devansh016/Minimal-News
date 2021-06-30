@@ -44,25 +44,7 @@
           </div>
     </div>
 
-    <script>
-      let trans = () => {
-        document.documentElement.classList.add('transition');
-        window.setTimeout(()=> {
-          document.documentElement.classList.remove('transition')
-        }, 250)
-      }
-  
-      function changeTheme(){
-        if(document.documentElement.getAttribute('data-theme') == 'dark'){
-          trans();
-          document.documentElement.setAttribute('data-theme', '')
-        }
-        else{
-          trans();
-          document.documentElement.setAttribute('data-theme', 'dark');
-        }
-      }
-      
-    </script>
+<script src="js/script.js"></script>
+
 </body>
 </html>
