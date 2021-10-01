@@ -12,7 +12,7 @@ html[data-theme='dark']{
     --textDescription:  rgb(140, 140, 172);
     --textHeadlines:    rgb(237, 237, 237);
     --cardHoverAccent:  rgb(11, 14, 44);
-    --bgSubcards:       rgb(18, 27, 48);
+    --bgSubcards:       rgb(66, 92, 153);
 }
 
 body {
