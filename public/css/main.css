@@ -4,7 +4,7 @@ html{
     --textDescription:  rgb(51, 51, 51);
     --textHeadlines:    rgb(67, 67, 67);
     --cardHoverAccent:  rgb(228, 242, 255);
-    --bgSubcards:       rgb(208, 223, 238);
+    --bgSubcards:       rgb(217, 233, 250);
 }
 html[data-theme='dark']{
     --bg:               rgb(0, 1, 13);
