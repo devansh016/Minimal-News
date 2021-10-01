@@ -10,12 +10,12 @@ function changeTheme(){
     if(document.documentElement.getAttribute('data-theme') == 'dark'){
         trans();
         document.documentElement.setAttribute('data-theme', '')
-        setCookie('theme','',30);
+        setCookie('theme','',7);
     }
     else{
         trans();
         document.documentElement.setAttribute('data-theme', 'dark');
-        setCookie('theme','dark',30);
+        setCookie('theme','dark',7);
     }
 }
 
@@ -23,7 +23,7 @@ function changeTheme(){
 if(getCookie('theme')=='dark'){
     trans();
     document.documentElement.setAttribute('data-theme', 'dark');
-    setCookie('theme','dark',30);
+    setCookie('theme','dark',7);
 }
 
 //Function to Create Cookie
