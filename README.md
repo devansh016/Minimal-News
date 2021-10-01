@@ -24,4 +24,17 @@ NEWS_COUNTRY = "in"  #Country code
 
 Your app should now be running on [localhost](http://localhost/) at port 80.
 
-![Minimal News Home](/res/images/home_dark.JPG "Minimal News Homepage")
+## User Interface
+
+### Light Mode
+
+![Minimal News Home Light](/res/images/minimalnews_light.png "Minimal News Homepage Light")
+
+![Minimal News Feedback](/res/images/feedback_light.PNG "Minimal News Feedback Light")
+
+### Dark Mode
+
+![Minimal News Home Dark](/res/images/minimalnews_dark.png "Minimal News Homepage Dark")
+
+![Minimal News Feedback](/res/images/feedback_dark.JPG "Minimal News Feedback Dark")
+
