@@ -36,5 +36,5 @@ Your app should now be running on [localhost](http://localhost/) at port 80.
 
 ![Minimal News Home Dark](/res/images/minimalnews_dark.png "Minimal News Homepage Dark")
 
-![Minimal News Feedback](/res/images/feedback_dark.JPG "Minimal News Feedback Dark")
+![Minimal News Feedback](/res/images/feedback_dark.PNG "Minimal News Feedback Dark")
 
