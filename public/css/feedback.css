@@ -101,8 +101,10 @@ h4 {
   background-color: var(--bgSubcards);
   border-radius: 5px;
   margin: 0 0 5px;
+  font-size: 600;
   padding: 10px;
-  color: var(--textHeadlines);
+  word-spacing: 1px;
+  color: rgb(50 45 45);
 }
 
 #contactMe textarea {
