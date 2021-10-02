@@ -22,6 +22,10 @@ function news_get () {
                 var article_url = json.articles[i].url;
                 var article_src = json.articles[i].source.name;
                 var article_time = json.articles[i].publishedAt;
+                
+                if ([article_title,article_desc,article_url].some(el => el == null)) {
+                    return;
+                }
   
                 //hours calculate
                 var date2 = Date.parse(article_time);
