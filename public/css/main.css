@@ -3,14 +3,16 @@ html{
     --primaryAccent:    rgb(6, 125, 247);
     --textDescription:  rgb(51, 51, 51);
     --textHeadlines:    rgb(67, 67, 67);
+    --cardAccent:       rgb(255, 255, 255);
     --cardHoverAccent:  rgb(228, 242, 255);
-    --bgSubcards:       rgb(217, 233, 250);
+    --bgSubcards:       rgb(193, 222, 253);
 }
 html[data-theme='dark']{
-    --bg:               rgb(0, 1, 13);
+    --bg:               rgb(35, 35, 35);
     --primaryAccent:    rgb(68, 111, 197);
     --textDescription:  rgb(140, 140, 172);
     --textHeadlines:    rgb(237, 237, 237);
+    --cardAccent:       rgb(45, 45, 45);
     --cardHoverAccent:  rgb(11, 14, 44);
     --bgSubcards:       rgb(66, 92, 153);
 }
@@ -28,6 +30,11 @@ nav.navbar {
     margin: 0 auto;
 }
 
+#app-name {
+    padding-left: 60px;
+    font-size: 2rem;
+}
+
 ul.navbar {
     display: -webkit-box;
     display: -webkit-flex;
@@ -37,6 +44,7 @@ ul.navbar {
     -webkit-justify-content: space-between;
     -ms-flex-pack: justify;
     justify-content: space-between;
+    align-items: baseline;
 }
 
 nav.navbar>ul.navbar {
@@ -119,16 +127,19 @@ a.navbar {
 
 .card.news {
     padding: 18px 18px 24px;
+    margin: 5px;
+    border-radius: 15px;
     text-align: left;
     -webkit-text-decoration: none;
     text-decoration: none;
     color: var(--textHeadlines);
+    background-color: var(--cardAccent);
     width: 100%;
 }
 
 .card.news:hover {
     background-color: var(--cardHoverAccent);
-    border-radius: 15px;
+    /* border-radius: 15px; */
 }
 
 .card.news h3.news {
@@ -149,7 +160,8 @@ a.navbar {
 }
 
 .card.news .byline.news .source.news {
-    padding: 2px 5px;
+    /* padding: 2px 5px; */
+    padding: 5px;
     margin-right: 5px;
     border-radius: 5px;
     background-color: var(--bgSubcards);
