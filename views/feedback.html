@@ -1,50 +1,93 @@
 <!DOCTYPE html>
 <html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Feedback | Minimal News</title>
+		<link rel="stylesheet" href="css/feedback.css" />
+		<link
+			href="https://fonts.googleapis.com/icon?family=Material+Icons"
+			rel="stylesheet"
+		/>
+	</head>
 
-<head>
-  <meta charSet="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Feedback | Minimal News</title>
-  <link rel="stylesheet" href="css/feedback.css">
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-</head>
+	<body>
+		<div id="__next">
+			<div class="news">
+				<nav class="navbar">
+					<ul class="navbar">
+						<li class="navbar">
+							<a
+								href="https://github.com/devansh016/Minimal-News"
+								class="navbar"
+								>Github</a
+							>
+						</li>
+						<li class="navbar">
+							<a id="app-name" href="/" class="navbar">Minimal News</a>
+						</li>
+						<li class="navbar">
+							<a href="/feedback" class="navbar">Feedback</a>
+							<div
+								class="invertIcon material-icons md-25"
+								onclick="changeTheme()"
+							>
+								invert_colors
+							</div>
+						</li>
+					</ul>
+				</nav>
+			</div>
+			<div class="contactContainer fade-in">
+				<form
+					id="contactMe"
+					action="https://send.pageclip.co/o6xsF7uWMxd5wigmM0yTao3VvhmoVgsc"
+					method="POST"
+				>
+					<h2 style="text-align: center">Get in Touch</h2>
+					<h4>Do have a message for me? Feel free to drop me an email!</h4>
+					<fieldset>
+						<input
+							name="name"
+							placeholder="Your Name"
+							type="text"
+							tabindex="1"
+							required
+							autofocus
+						/>
+					</fieldset>
+					<fieldset>
+						<input
+							name="email"
+							placeholder="Your Email Address"
+							type="email"
+							tabindex="2"
+							required
+						/>
+					</fieldset>
+					<fieldset>
+						<textarea
+							name="message"
+							placeholder="Type your message here..."
+							tabindex="3"
+							required
+						></textarea>
+					</fieldset>
+					<fieldset>
+						<button
+							name="submit"
+							type="submit"
+							id="contactSubmit"
+							data-submit="...Sending"
+						>
+							Submit
+						</button>
+					</fieldset>
+				</form>
+			</div>
+		</div>
 
-<body>
-	<div id="__next">
-		<div class="news">
-			<nav class="navbar">
-				<ul class="navbar">
-					<li class="navbar"><a href="https://github.com/devansh016/Minimal-News" class="navbar">Github</a></li>
-					<li class="navbar"><a id="app-name" href="/" class="navbar">Minimal News</a></li>
-					<li class="navbar">
-						<a href="/feedback" class="navbar">Feedback</a> 
-						<div class="invertIcon material-icons md-25" onclick="changeTheme()">invert_colors</div>
-					</li>
-				</ul>
-			</nav>
-        </div>
-        <div class="contactContainer fade-in">
-            <form id="contactMe" action="https://send.pageclip.co/o6xsF7uWMxd5wigmM0yTao3VvhmoVgsc" method="POST">
-              <h2>Get in Touch</h2>
-              <h4>Do have a message for me? Feel free to drop me an email!</h4>
-              <fieldset>
-                <input name="name" placeholder="Your Name" type="text" tabindex="1" required autofocus>
-              </fieldset>
-              <fieldset>
-                <input name="email" placeholder="Your Email Address" type="email" tabindex="2" required>
-              </fieldset>
-              <fieldset>
-                <textarea name="message" placeholder="Type your message here..." tabindex="3" required></textarea>
-              </fieldset>
-              <fieldset>
-                <button name="submit" type="submit" id="contactSubmit" data-submit="...Sending">Submit</button>
-              </fieldset>
-            </form>
-          </div>
-    </div>
-
-<script src="js/script.js"></script>
-
-</body>
+		<script src="js/script.js"></script>
+	</body>
 </html>
