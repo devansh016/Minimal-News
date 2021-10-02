@@ -13,10 +13,10 @@
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
+    "github-fork-ribbon-css": "^0.2.3",
     "node-fetch": "^2.6.1",
     "node-schedule": "^2.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devansh016/Minimal-News.git"
