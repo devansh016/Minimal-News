@@ -3,14 +3,16 @@ html {
   --primaryAccent: rgb(6, 125, 247);
   --textDescription: rgb(51, 51, 51);
   --textHeadlines: rgb(67, 67, 67);
+  --cardAccent:       rgb(255, 255, 255);
   --cardHoverAccent: rgb(228, 242, 255);
   --bgSubcards: rgb(208, 223, 238);
 }
 html[data-theme="dark"] {
-  --bg: rgb(0, 1, 13);
+  --bg: rgb(35, 35, 35);
   --primaryAccent: rgb(68, 111, 197);
   --textDescription: rgb(140, 140, 172);
   --textHeadlines: rgb(237, 237, 237);
+  --cardAccent:       rgb(45, 45, 45);
   --cardHoverAccent: rgb(11, 14, 44);
   --bgSubcards: rgb(18, 27, 48);
 }
@@ -33,6 +35,11 @@ nav.navbar {
   margin: 0 auto;
 }
 
+#app-name {
+  padding-left: 60px;
+  font-size: 2rem;
+}
+
 ul.navbar {
   display: -webkit-box;
   display: -webkit-flex;
@@ -42,6 +49,7 @@ ul.navbar {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
+  align-items: baseline;
 }
 
 nav.navbar > ul.navbar {
@@ -73,7 +81,7 @@ a.navbar {
 #contactMe {
   margin: 50px 0;
   padding: 2em;
-  background-color: var(--cardHoverAccent);
+  background-color: var(--cardAccent);
   border-radius: 15px;
   font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica,
     sans-serif;
@@ -81,8 +89,7 @@ a.navbar {
 
 h2 {
   margin-bottom: 1em;
-  width: 43.125%;
-  margin: auto;
+  text-align: center;
   color: var(--textHeadlines);
 }
 
@@ -103,8 +110,12 @@ h4 {
   margin: 0 0 5px;
   font-size: 600;
   padding: 10px;
+
   word-spacing: 1px;
-  color: rgb(50 45 45);
+  color: var(--textHeadlines);
+  font-size: 1.025rem;
+  font-weight: bolder;
+
 }
 
 #contactMe textarea {
@@ -143,7 +154,7 @@ h4 {
 
 #contactMe input:focus,
 #contactMe textarea:focus {
-  filter: brightness(1.5);
+  filter: brightness(0.8);
 }
 
 ::-webkit-input-placeholder {
@@ -195,4 +206,25 @@ fieldset {
 }
 .material-icons.md-25 {
   font-size: 1.5rem;
+}
+
+@media screen and (max-width: 600px) {
+  ul.navbar {
+      flex-direction: column;
+      align-items: center;
+  }
+  ul.navbar :nth-child(2) {order: -1;}
+  #app-name {
+      padding: 0px;
+      font-size: 3rem;
+  }
+  .invertIcon {
+      position: fixed;
+      bottom:50px;
+      right:50px;
+      transform: scale(1.8);
+  }
+  body {
+      padding-bottom: 70px;
+  }
 }

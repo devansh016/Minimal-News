@@ -16,7 +16,6 @@
     "node-fetch": "^2.6.1",
     "node-schedule": "^2.0.0"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devansh016/Minimal-News.git"
