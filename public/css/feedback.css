@@ -81,6 +81,8 @@ a.navbar {
 
 h2 {
   margin-bottom: 1em;
+  width: 43.125%;
+  margin: auto;
   color: var(--textHeadlines);
 }
 
