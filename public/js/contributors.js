@@ -1,6 +1,5 @@
 $(function () {
-  $.getJSON("/json/contributors", function (data) {
-    console.log(data);
+  $.getJSON("/contributors/data", function (data) {
     $.each(data.contributors, function (i, contributor) {
       var contributorCol = `
       <div class="contributor">
