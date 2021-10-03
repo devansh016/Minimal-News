@@ -187,7 +187,7 @@ a.navbar:hover {
 
 footer{
 	
-	position: fixed;
+	position: relative;
 	text-align: center;
 	bottom: 0;
 	width: 100%;
