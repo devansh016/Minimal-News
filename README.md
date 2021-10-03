@@ -40,6 +40,49 @@ Your app should now be running on [localhost](http://localhost/) at port 80.
 
 ![Minimal News Feedback](/res/images/feedback_dark.PNG "Minimal News Feedback Dark")
 
+
+## Make Your First Contribution
+1. Fork this repository, __star this repository__ ,  and clone it onto your machine.
+    ```
+    git clone https://github.com/<my_account>/Minimal-News.git
+    ```
+    
+1. Create a new branch and switch to it.
+
+    ```
+    cd Minimal-News
+    git checkout -b <new_branch_name>
+    ```
+    
+1. Set up the development environment. This will create a virtual environment and install all of the required development packages.
+    
+    ```
+    source startup-dev.sh
+    ```
+    
+1. Make changes to the code on that branch and commit.
+1. Push the commit to GitHub.
+    ```
+    git push origin <new_branch_name>
+    ```
+
+1. Make a pull request on GitHub.
+
+1. Add your details in [res/contributors.json](contributors.json)
+
+### Low quality contributions are discouraged and may be marked as spam by maintainers. examples of low quality contributions are as follows->
+* Pull requests that are automated e.g. scripted opening pull requests to remove whitespace / fix typos / optimize images.
+* Pull requests that are disruptive e.g. taking someone else's branch/commits and making a pull request.
+* Pull requests that are regarded by a project maintainer as a hindrance vs. helping.
+* Something that's clearly an attempt to simply +1 your pull request count for October.
+* Last but not least, one pull request to fix a typo is fine, but 5 pull requests to remove a stray whitespace is not.
+
+
+
+
+
+
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](/LICENSE) for more information.
