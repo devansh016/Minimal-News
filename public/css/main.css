@@ -1,24 +1,26 @@
 html{
     --bg:               rgb(237, 237, 237);
     --primaryAccent:    rgb(6, 125, 247);
-	--primaryHoverAccent:rgb(11, 95, 179);
+	  --primaryHoverAccent:rgb(11, 95, 179);
     --textDescription:  rgb(51, 51, 51);
     --textHeadlines:    rgb(67, 67, 67);
     --cardAccent:       rgb(255, 255, 255);
     --cardHoverAccent:  rgb(228, 242, 255);
     --bgSubcards:       rgb(193, 222, 253);
+	  --btnDropShadow:    rgb(171, 171, 171);
     height:100%;
 }
 html[data-theme='dark']{
     --bg:               rgb(35, 35, 35);
     --primaryAccent:    rgb(68, 111, 197);
-	--primaryHoverAccent:rgb(47, 81, 156);
+	  --primaryHoverAccent:rgb(47, 81, 156);
     --textDescription:  rgb(140, 140, 172);
     --textHeadlines:    rgb(237, 237, 237, 0.8);
     --cardAccent:       rgb(45, 45, 45);
-    --cardHoverAccent:  rgb(11, 14, 44);
+    --cardHoverAccent:  rgb(35, 49, 83);
     --bgSubcards:       rgb(66, 92, 153);
-    height:100%;
+	  --btnDropShadow:    rgb(42, 42, 42);
+  height:100%;
 }
 
 body {
@@ -262,15 +264,25 @@ html.transition *:after {
     ul.navbar :nth-child(2) {order: -1;}
     #app-name {
         padding: 0px;
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     .invertIcon {
         position: fixed;
-        bottom:50px;
-        right:50px;
-        transform: scale(1.8);
+        bottom:25px;
+        right:25px;
+        transform: scale(1.6);
+		box-shadow: 0px 0px 12px 1px var(--btnDropShadow);
     }
     body {
         padding-bottom: 70px;
     }
+	.news.row{
+		margin: 0 0.5rem;
+	}
+	.card.news p.news {
+		padding: 0.5rem 0 0;
+	}
+	.card.news .byline.news{
+		padding: 0.75rem 0 5px;
+	}
 }
