@@ -1,6 +1,7 @@
 html{
     --bg:               rgb(237, 237, 237);
     --primaryAccent:    rgb(6, 125, 247);
+	--primaryHoverAccent:rgb(11, 95, 179);
     --textDescription:  rgb(51, 51, 51);
     --textHeadlines:    rgb(67, 67, 67);
     --cardAccent:       rgb(255, 255, 255);
@@ -10,8 +11,9 @@ html{
 html[data-theme='dark']{
     --bg:               rgb(35, 35, 35);
     --primaryAccent:    rgb(68, 111, 197);
+	--primaryHoverAccent:rgb(47, 81, 156);
     --textDescription:  rgb(140, 140, 172);
-    --textHeadlines:    rgb(237, 237, 237);
+    --textHeadlines:    rgb(237, 237, 237, 0.8);
     --cardAccent:       rgb(45, 45, 45);
     --cardHoverAccent:  rgb(11, 14, 44);
     --bgSubcards:       rgb(66, 92, 153);
@@ -65,6 +67,11 @@ a.navbar {
     -webkit-text-decoration: none;
     text-decoration: none;
     font-size: 1rem;
+	transition: 0.2s all;
+}
+
+a.navbar:hover {
+	color: var(--primaryHoverAccent);
 }
 
 .hero.news {
@@ -135,6 +142,7 @@ a.navbar {
     color: var(--textHeadlines);
     background-color: var(--cardAccent);
     width: 100%;
+	transition: 0.2s all;
 }
 
 .card.news:hover {
