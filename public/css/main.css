@@ -15,7 +15,7 @@ html[data-theme='dark']{
     --textDescription:  rgb(140, 140, 172);
     --textHeadlines:    rgb(237, 237, 237, 0.8);
     --cardAccent:       rgb(45, 45, 45);
-    --cardHoverAccent:  rgb(11, 14, 44);
+    --cardHoverAccent:  rgb(35, 49, 83);
     --bgSubcards:       rgb(66, 92, 153);
 }
 
@@ -225,15 +225,25 @@ html.transition *:after {
     ul.navbar :nth-child(2) {order: -1;}
     #app-name {
         padding: 0px;
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
     .invertIcon {
         position: fixed;
-        bottom:50px;
-        right:50px;
-        transform: scale(1.8);
+        bottom:25px;
+        right:25px;
+        transform: scale(1.6);
+		box-shadow: 0px 0px 12px 1px #2a2a2a;
     }
     body {
         padding-bottom: 70px;
     }
+	.news.row{
+		margin: 0 0.5rem;
+	}
+	.card.news p.news {
+		padding: 0.5rem 0 0;
+	}
+	.card.news .byline.news{
+		padding: 0.75rem 0 5px;
+	}
 }
