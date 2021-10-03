@@ -190,6 +190,13 @@ a.navbar:hover {
     background: var(--primaryAccent);
 }
 
+
+/* Smooth Scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+
 /* Theme Invert Icon */
 .invertIcon{
     box-sizing: content-box;
@@ -204,6 +211,29 @@ a.navbar:hover {
     color: var(--textHeadlines);
     cursor: pointer;
 }
+
+/* Back To Top Icon */
+.backToTop{
+    box-sizing: content-box;
+    border-radius: 50%;
+    border: solid 5px var(--bgSubcards);
+    background-color: var(--bgSubcards);
+    display: flex !important;
+    visibility: hidden;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    color: var(--textHeadlines);
+    cursor: pointer;
+    height: 25px;
+    width: 25px;
+    bottom:50px;
+    right:50px;
+    position: fixed;
+    transition: all .5s ease;
+    transform: scale(1.8);
+}
+
 .material-icons.md-25 {
     font-size: 1.5rem;
 }
@@ -232,6 +262,10 @@ html.transition *:after {
         bottom:50px;
         right:50px;
         transform: scale(1.8);
+    }
+    .backToTop {
+        bottom:120px;
+        right:50px;
     }
     body {
         padding-bottom: 70px;
