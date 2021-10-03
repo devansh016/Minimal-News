@@ -50,3 +50,19 @@ function getCookie(name) {
     }
     return "";
 }
+
+// function to show back to top button on scroll
+window.onscroll = () => {
+    let scroll = window.scrollY || document.documentElement.scrollTop
+    let button = document.querySelector('.backToTop')
+    if(scroll > 800){
+        button.style.visibility = "visible"
+    }else {
+        button.style.visibility = "hidden"
+    }
+}
+
+// function to back to top 
+function backToTop(){
+    return window.scrollTo(0,0)
+}
