@@ -55,10 +55,18 @@
       "github_url": "https://github.com/ashutoshkrris",
       "image_url": "https://avatars.githubusercontent.com/u/47353498?v=4"
     },
-	{
-	  "name": "Aryan Gupta",
-	  "github_url": "https://github.com/aryan31200",
-	  "image_url": "https://avatars.githubusercontent.com/u/58692126?v=4"
-	}
+
+    {
+      "name": "Aryan Gupta",
+      "github_url": "https://github.com/aryan31200",
+      "image_url": "https://avatars.githubusercontent.com/u/58692126?v=4"
+    },
+    {
+      "name": "Sejal Zambare",
+      "github_url": "https://github.com/Sejal-16",
+      "image_url": "https://github.com/Sejal-16.png"
+      
+    }
   ]
+
 }
