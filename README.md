@@ -1,4 +1,6 @@
-# Minimal-News
+<p align="center"><img src="res/images/banner.png"></img> </p>
+
+- - -
 
 Minimal News is a text only news aggregator with the following objectives:
 1. Clean headlines: Clean, clickbait-free headlines that get straight to the point.
