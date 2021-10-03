@@ -7,6 +7,7 @@ html{
     --cardAccent:       rgb(255, 255, 255);
     --cardHoverAccent:  rgb(228, 242, 255);
     --bgSubcards:       rgb(193, 222, 253);
+    height:100%;
 }
 html[data-theme='dark']{
     --bg:               rgb(35, 35, 35);
@@ -17,12 +18,19 @@ html[data-theme='dark']{
     --cardAccent:       rgb(45, 45, 45);
     --cardHoverAccent:  rgb(11, 14, 44);
     --bgSubcards:       rgb(66, 92, 153);
+    height:100%;
 }
 
 body {
     margin: 0;
     font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica, sans-serif;
     background-color: var(--bg);
+    height : 100%;
+}
+
+.wrapper{
+    height:auto !important;
+    min-height:100%;
 }
 
 nav.navbar {
@@ -186,6 +194,8 @@ footer{
 	height: 75px;
 	background-color: rgb(146, 188, 231);
     box-shadow: 0px 0px 20px rgb(168, 166, 166); 
+    margin-bottom : 0;
+    flex-shrink: 0;
 }
 .footer-div{
     padding-top: 20px;
