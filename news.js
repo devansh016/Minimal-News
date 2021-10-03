@@ -30,7 +30,7 @@ function news_get () {
                 if(hours==0)
                     hours =1;
                 
-                pr += `<div class="news row">
+                pr += `<div class="news row" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <a href="${article_url}" target="_blank" class="news card">
                 <h3 class="news">${i+1}<!-- -->. <!-- -->${article_title}</h3>
                 <div class="news byline"><span class="news source">${article_src}</span>

@@ -232,6 +232,7 @@ html.transition *:after {
         bottom:50px;
         right:50px;
         transform: scale(1.8);
+        z-index: 9;
     }
     body {
         padding-bottom: 70px;
