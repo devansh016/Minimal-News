@@ -166,6 +166,33 @@ a.navbar {
     border-radius: 5px;
     background-color: var(--bgSubcards);
 }
+/*footer*/
+
+
+footer{
+	
+	position: fixed;
+	text-align: center;
+	bottom: 0;
+	width: 100%;
+	height: 75px;
+	background-color: rgb(146, 188, 231);
+    box-shadow: 0px 0px 20px rgb(168, 166, 166); 
+}
+.footer-div{
+    padding-top: 20px;
+}
+.footer-button{
+    border-radius: 5px;
+    padding :5px;
+    border : none;
+    color:rgb(237, 237, 237);
+    background-color:rgb(51, 51, 51);
+    cursor:pointer;
+    height : 30px;
+    font-size : 14px;
+   
+}
 
 /* Custom Scroll Bar */
 ::-webkit-scrollbar {
