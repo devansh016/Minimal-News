@@ -26,6 +26,27 @@ NEWS_COUNTRY = "in"  #Country code
 
 Your app should now be running on [localhost](http://localhost/) at port 80.
 
+## Make Your First Contribution
+1. Fork this repository, __star this repository__ ,  and clone it onto your machine.
+    ```
+    git clone https://github.com/<my_account>/Minimal-News.git
+    ```
+    
+1. Create a new branch and switch to it.
+
+    ```
+    cd Minimal-News
+    git checkout -b <new_branch_name>
+    ```
+    
+1. Make changes to the code on that branch, add your details in [res/contributors.json](contributors.json) and commit.
+1. Push the commit to GitHub.
+    ```
+    git push origin <new_branch_name>
+    ```
+
+1. Make a pull request on GitHub.
+
 ## User Interface
 
 ### Light Mode
@@ -39,6 +60,9 @@ Your app should now be running on [localhost](http://localhost/) at port 80.
 ![Minimal News Home Dark](/res/images/minimalnews_dark.png "Minimal News Homepage Dark")
 
 ![Minimal News Feedback](/res/images/feedback_dark.PNG "Minimal News Feedback Dark")
+
+
+
 
 ## License
 
