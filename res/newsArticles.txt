@@ -7,7 +7,11 @@
                 <a href="https://news.abplive.com/technology/gadgets/amazon-great-indian-festival-sale-check-biggest-sale-on-smartwatches-50-percent-discount-on-fitness-bands-trs-1485718" target="_blank" class="news card">
                 <h3 class="news">2<!-- -->. <!-- -->Amazon Great Indian Festival Sale: Check Biggest Offers On Smartwatches, 50% Discount On Fitness Bands - ABP Live</h3>
                 <div class="news byline"><span class="news source">Abplive.com</span>
+<<<<<<< HEAD
                 <span class="news timeago"><time dateTime="2021-10-03T13:46:30Z" title="2021-10-03T13:46:30Z">3 hours ago</time>
+=======
+                <span class="news timeago"><time dateTime="2021-10-03T13:46:30Z" title="2021-10-03T13:46:30Z">2 hours ago</time>
+>>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
                 </span></div><p class="news">Amazon Great Indian Festival Sale: If you are planning to buy a smartwatch of any brand, don't forget to check out the ongoing sale at Amazon. You can avail 50% discount on branded fitness bands.</p></a></div><div class="news row">
                 <a href="https://www.aljazeera.com/news/2021/10/3/cyclone-shaheen-approaches-oman-flights-delayed" target="_blank" class="news card">
                 <h3 class="news">3<!-- -->. <!-- -->Cyclone Shaheen approaches Oman - Al Jazeera English</h3>
@@ -37,7 +41,11 @@
                 <a href="https://indianexpress.com/article/world/bomb-targets-mosque-in-kabul-a-number-of-civilians-dead-7549297/" target="_blank" class="news card">
                 <h3 class="news">8<!-- -->. <!-- -->Bomb targets mosque in Kabul, ‘a number of civilians’ dead - The Indian Express</h3>
                 <div class="news byline"><span class="news source">The Indian Express</span>
+<<<<<<< HEAD
                 <span class="news timeago"><time dateTime="2021-10-03T12:52:42Z" title="2021-10-03T12:52:42Z">4 hours ago</time>
+=======
+                <span class="news timeago"><time dateTime="2021-10-03T12:52:42Z" title="2021-10-03T12:52:42Z">3 hours ago</time>
+>>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
                 </span></div><p class="news">The bomb targeted the Eidgah Mosque, where a memorial service was being held for the mother of Taliban spokesman Zabihullah Mujahid.</p></a></div><div class="news row">
                 <a href="https://www.business-standard.com/article/current-affairs/zydus-cadila-proposes-rs-1900-for-3-dose-covid-vaccine-govt-negotiating-121100300578_1.html" target="_blank" class="news card">
                 <h3 class="news">9<!-- -->. <!-- -->Zydus Cadila proposes Rs 1900 for 3 dose Covid vaccine; Govt negotiating - Business Standard</h3>
@@ -67,12 +75,20 @@
                 <a href="https://www.livemint.com/science/news/in-which-ways-is-mars-similar-to-earth-latest-study-explains-11633259175849.html" target="_blank" class="news card">
                 <h3 class="news">14<!-- -->. <!-- -->In which ways is Mars similar to Earth? Latest study explains - Mint</h3>
                 <div class="news byline"><span class="news source">Livemint</span>
+<<<<<<< HEAD
                 <span class="news timeago"><time dateTime="2021-10-03T11:42:33Z" title="2021-10-03T11:42:33Z">5 hours ago</time>
+=======
+                <span class="news timeago"><time dateTime="2021-10-03T11:42:33Z" title="2021-10-03T11:42:33Z">4 hours ago</time>
+>>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
                 </span></div><p class="news">A new study is looking to understand the phenomena of wind on Mars by focusing on what happens when two dunes collide there</p></a></div><div class="news row">
                 <a href="https://www.firstpost.com/firstcricket/sports-news/highlights-australia-women-vs-india-women-pink-ball-test-full-cricket-score-mithali-and-cos-day-night-debut-ends-in-a-draw-10018311.html" target="_blank" class="news card">
                 <h3 class="news">15<!-- -->. <!-- -->Highlights, Australia Women vs India Women pink-ball.. Score: Mithali and Cos day-night debut ends in a draw - Firstpost</h3>
                 <div class="news byline"><span class="news source">Firstpost</span>
+<<<<<<< HEAD
                 <span class="news timeago"><time dateTime="2021-10-03T11:40:25Z" title="2021-10-03T11:40:25Z">5 hours ago</time>
+=======
+                <span class="news timeago"><time dateTime="2021-10-03T11:40:25Z" title="2021-10-03T11:40:25Z">4 hours ago</time>
+>>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
                 </span></div><p class="news">India vs Australia Women Cricket, India vs Australia, Day-Night pink ball Test When And Where to Watch IND vs AUS Live Cricket Match Online And on TV</p></a></div><div class="news row">
                 <a href="https://zeenews.india.com/delhi/viral-video-air-india-plane-gets-stuck-under-foot-over-bridge-near-airport-watch-2399401.html" target="_blank" class="news card">
                 <h3 class="news">16<!-- -->. <!-- -->Air India plane gets stuck under foot over bridge near airport - WATCH - Zee News</h3>
@@ -87,12 +103,20 @@
                 <a href="https://www.news18.com/news/india/mumbai-drug-bust-live-updates-aryan-khans-lawyer-says-filing-for-bail-ncb-gets-1-day-custody-of-3-accused-4276991.html" target="_blank" class="news card">
                 <h3 class="news">18<!-- -->. <!-- -->Mumbai Drug Bust LIVE Updates: 3, Including Shah Rukh Khan's Son Aryan Khan, Arrested; Cordelia Cruises ‘Co - News18</h3>
                 <div class="news byline"><span class="news source">News18</span>
+<<<<<<< HEAD
                 <span class="news timeago"><time dateTime="2021-10-03T10:52:57Z" title="2021-10-03T10:52:57Z">6 hours ago</time>
+=======
+                <span class="news timeago"><time dateTime="2021-10-03T10:52:57Z" title="2021-10-03T10:52:57Z">5 hours ago</time>
+>>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
                 </span></div><p class="news">Mumbai Drug Bust LIVE Updates: The Narcotics Control Bureau has taken Shah Rukh Khan's son Aryan Khan, Arbaz Seth Merchant and Munmun Dhamecha, all accused in the NCB drug bust case, to the court.</p></a></div><div class="news row">
                 <a href="https://timesofindia.indiatimes.com/world/europe/afghanistan-on-verge-of-socio-economic-collapse-eus-top-diplomat-says/articleshow/86726939.cms" target="_blank" class="news card">
                 <h3 class="news">19<!-- -->. <!-- -->Afghanistan on verge of socio-economic collapse, EU's top diplomat says - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
+<<<<<<< HEAD
                 <span class="news timeago"><time dateTime="2021-10-03T10:40:00Z" title="2021-10-03T10:40:00Z">6 hours ago</time>
+=======
+                <span class="news timeago"><time dateTime="2021-10-03T10:40:00Z" title="2021-10-03T10:40:00Z">5 hours ago</time>
+>>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
                 </span></div><p class="news">Europe News: BRUSSELS: Afghanistan is facing a breakdown of its economic and social systems that risks turning into a humanitarian catastrophe, the European Union'.</p></a></div><div class="news row">
                 <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-covid-19-causes-blood-sugar-levels-to-rise-can-worsen-disease/photostory/86724985.cms" target="_blank" class="news card">
                 <h3 class="news">20<!-- -->. <!-- -->Coronavirus: COVID-19 causes blood sugar levels to rise, can worsen disease - Times of India</h3>

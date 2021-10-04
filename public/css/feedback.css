@@ -89,6 +89,7 @@ a.navbar {
 
 h2 {
   margin-bottom: 1em;
+  text-align: center;
   color: var(--textHeadlines);
 }
 
@@ -109,6 +110,8 @@ h4 {
   margin: 0 0 5px;
   padding: 10px;
   color: var(--textHeadlines);
+  font-size: 1.025rem;
+  font-weight: bolder;
 }
 
 #contactMe textarea {

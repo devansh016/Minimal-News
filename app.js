@@ -24,6 +24,16 @@ app.use('/refresh', (req,res,next) => {
     res.status =200;
     res.send('refresh done');
 });
+
+// Serve Contributors Data
+app.use("/contributors/data", (req, res, next) => {
+  res.sendFile(path.join(__dirname, "/" + "res" + "/" + "contributors.json"));
+});
+// Serve Contributors Page
+app.use("/contributors", (req, res, next) => {
+  res.sendFile(path.join(__dirname, "/" + "views" + "/" + "contributors.html"));
+});
+
 // Serve Feedback page
 app.use('/feedback', (req,res,next) => {
     res.sendFile(path.join(__dirname, "/" + "views" + "/" + "feedback.html"));

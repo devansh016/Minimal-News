@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html data-theme="">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contributors | Minimal News</title>
+    <link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="css/profile.css" />
+    <link
+      href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet"
+    />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
+      integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz"
+      crossorigin="anonymous"
+    />
+  </head>
+
+  <body>
+    <div id="__next">
+      <div class="news">
+        <nav class="navbar">
+          <ul class="navbar">
+            <li class="navbar">
+              <a
+                href="https://github.com/devansh016/Minimal-News"
+                class="navbar"
+                >Github</a
+              >
+            </li>
+            <li class="navbar">
+              <a id="app-name" href="/" class="navbar">Minimal News</a>
+            </li>
+            <li class="navbar">
+              <a href="/feedback" class="navbar">Feedback</a>
+              <div
+                class="invertIcon material-icons md-25"
+                onclick="changeTheme()"
+              >
+                invert_colors
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+      <!--This is to render contributors -->
+      <div class="wrapper">
+        <div class="contributors"></div>
+      </div>
+    </div>
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-C5FSFLE590"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-C5FSFLE590");
+    </script>
+    <script
+      src="https://code.jquery.com/jquery-3.6.0.min.js"
+      integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
+      crossorigin="anonymous"
+    ></script>
+    <script src="js/script.js"></script>
+    <script src="js/contributors.js"></script>
+  </body>
+</html>
