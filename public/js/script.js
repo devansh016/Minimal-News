@@ -50,14 +50,13 @@ function getCookie(name) {
   return "";
 }
 
-// Scroll to top button 
-const ScrollToTop = document.getElementById('scroll-to-top');
+// Scroll to top button
+const ScrollToTop = document.getElementById("scroll-to-top");
 
-window.addEventListener('scroll', () => {
-    if(window.pageYOffset > 100) {
-        ScrollToTop.classList.add('active');
-    } else {
-        ScrollToTop.classList.remove('active')
-    }
+window.addEventListener("scroll", () => {
+  if (window.pageYOffset > 100) {
+    ScrollToTop.classList.add("active");
+  } else {
+    ScrollToTop.classList.remove("active");
+  }
 });
-
