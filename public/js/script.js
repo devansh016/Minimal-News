@@ -50,18 +50,13 @@ function getCookie(name) {
   return "";
 }
 
-// function to show back to top button on scroll
-window.onscroll = () => {
-  let scroll = window.scrollY || document.documentElement.scrollTop;
-  let button = document.querySelector(".backToTop");
-  if (scroll > 800) {
-    button.style.visibility = "visible";
-  } else {
-    button.style.visibility = "hidden";
-  }
-};
+// Scroll to top button
+const ScrollToTop = document.getElementById("scroll-to-top");
 
-// function to back to top
-function backToTop() {
-  return window.scrollTo(0, 0);
-}
+window.addEventListener("scroll", () => {
+  if (window.pageYOffset > 100) {
+    ScrollToTop.classList.add("active");
+  } else {
+    ScrollToTop.classList.remove("active");
+  }
+});
