@@ -27,7 +27,7 @@
                 <a href="https://www.techexplorist.com/earth-brightness-dropping-due-ocean-warming/41586/" target="_blank" class="news card">
                 <h3 class="news">6<!-- -->. <!-- -->Earth’s brightness is dropping due to ocean warming - Tech Explorist</h3>
                 <div class="news byline"><span class="news source">Tech Explorist</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:38:10Z" title="2021-10-04T05:38:10Z">1 hours ago</time>
+                <span class="news timeago"><time dateTime="2021-10-04T05:38:10Z" title="2021-10-04T05:38:10Z">2 hours ago</time>
                 </span></div><p class="news">Climate change could be to blame.</p></a></div><div class="news row">
                 <a href="https://tech.hindustantimes.com/tv/reviews/sony-bravia-55x90j-review-we-like-what-we-see-71633316601521.html" target="_blank" class="news card">
                 <h3 class="news">7<!-- -->. <!-- -->Sony Bravia 55X90J review: We like what we see - HT Tech</h3>
@@ -57,12 +57,12 @@
                 <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-that-kareena-kapoor-rejected-randhir-kapoors-idea-of-a-lavish-wedding-with-saif-ali-khan/articleshow/86746196.cms" target="_blank" class="news card">
                 <h3 class="news">12<!-- -->. <!-- -->Did you know that Kareena Kapoor rejected Randhir Kapoor's idea of a lavish wedding with Saif Ali Khan? - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T04:56:00Z" title="2021-10-04T04:56:00Z">2 hours ago</time>
+                <span class="news timeago"><time dateTime="2021-10-04T04:56:00Z" title="2021-10-04T04:56:00Z">3 hours ago</time>
                 </span></div><p class="news">Randhir Kapoor recently revealed that Kareena Kapoor Khan wanted a low-key wedding with Saif Ali Khan and that she</p></a></div><div class="news row">
                 <a href="https://www.news18.com/news/movies/amid-samantha-ruth-prabhu-and-naga-chaitanyas-separation-siddharth-tweets-about-cheaters-4280531.html" target="_blank" class="news card">
                 <h3 class="news">13<!-- -->. <!-- -->Amid Samantha Ruth Prabhu and Naga Chaitanya's Separation, Siddharth Tweets About 'Cheaters' - News18</h3>
                 <div class="news byline"><span class="news source">News18</span>
-                <span class="news timeago"><time dateTime="2021-10-04T04:51:15Z" title="2021-10-04T04:51:15Z">2 hours ago</time>
+                <span class="news timeago"><time dateTime="2021-10-04T04:51:15Z" title="2021-10-04T04:51:15Z">3 hours ago</time>
                 </span></div><p class="news">After Samantha Ruth Prabhu and Naga Chaitanya announced their separation, the actress' rumoured ex-boyfriend Siddharth shared a cryptic post on his Twitter account.</p></a></div><div class="news row">
                 <a href="https://www.news18.com/news/politics/throne-for-mamata-pick-me-up-for-bjp-vindication-for-ec-little-something-for-all-in-bhabanipur-4280357.html" target="_blank" class="news card">
                 <h3 class="news">14<!-- -->. <!-- -->Throne for Mamata, Pick-Me-Up for BJP, Vindication for EC: Little Something for All in Bhabanipur - News18</h3>
@@ -82,7 +82,7 @@
                 <a href="https://www.hindustantimes.com/india-news/mundra-port-seizure-had-a-dry-run-on-june-9-govt-alarmed-over-drug-menace-101633319368139.html" target="_blank" class="news card">
                 <h3 class="news">17<!-- -->. <!-- -->Mundra port seizure had a dry run on June 9, govt alarmed over drug menace - Hindustan Times</h3>
                 <div class="news byline"><span class="news source">Hindustan Times</span>
-                <span class="news timeago"><time dateTime="2021-10-04T03:55:18Z" title="2021-10-04T03:55:18Z">3 hours ago</time>
+                <span class="news timeago"><time dateTime="2021-10-04T03:55:18Z" title="2021-10-04T03:55:18Z">4 hours ago</time>
                 </span></div><p class="news">DRI, working on the leads provided by the June 9 dry run, was able to identify the drug runners, mode of payments and principals behind the Mundra port seizure.  | Latest News India</p></a></div><div class="news row">
                 <a href="https://timesofindia.indiatimes.com/city/lucknow/7-new-dengue-cases-in-lucknow-larvae-found-at-16-houses/articleshow/86744922.cms" target="_blank" class="news card">
                 <h3 class="news">18<!-- -->. <!-- -->7 new dengue cases in Lucknow, larvae found at 16 houses - Times of India</h3>
