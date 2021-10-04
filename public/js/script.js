@@ -66,3 +66,9 @@ window.onscroll = () => {
 function backToTop(){
     return window.scrollTo(0,0)
 }
+
+// Redirect to country route 
+function changeCountry(event){
+    var url = `${window.location.origin}/${event.target.value.toLowerCase()}`; 
+    window.location = url ;
+ }

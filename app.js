@@ -1,9 +1,9 @@
-const express = require('express');
-const bodyParser = require('body-parser');
-const path = require('path');
-var schedule = require('node-schedule');
-var news = require('./news.js');
-const fs = require('fs');
+const express = require("express");
+const bodyParser = require("body-parser");
+const path = require("path");
+var schedule = require("node-schedule");
+var news = require("./news.js");
+const fs = require("fs");
 
 const port = process.env.PORT || 80;
 
@@ -12,17 +12,17 @@ app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
 
-app.set('view engine', 'ejs');
-app.set('views', 'views');
+app.set("view engine", "ejs");
+app.set("views", "views");
 
 //Serve static files
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, "public")));
 
 //Refresh Data
-app.use('/refresh', (req,res,next) => {
-    news.news_get();
-    res.status =200;
-    res.send('refresh done');
+app.use("/refresh", (req, res, next) => {
+  news.news_get();
+  res.status = 200;
+  res.send("refresh done");
 });
 
 // Serve Contributors Data
@@ -35,21 +35,27 @@ app.use("/contributors", (req, res, next) => {
 });
 
 // Serve Feedback page
-app.use('/feedback', (req,res,next) => {
-    res.sendFile(path.join(__dirname, "/" + "views" + "/" + "feedback.html"));
+app.use("/feedback", (req, res, next) => {
+  res.sendFile(path.join(__dirname, "/" + "views" + "/" + "feedback.html"));
 });
+
+
 //Serve Index Page
-app.use('/', (req,res,next) => {
-    var article = fs.readFileSync('res/newsArticles.txt', 'utf8');
-    res.render('index.ejs', {
-        data: article
+app.use("/:county?", (req, res, next) => {
+  news.news_get(req.params.county).then(() => {
+    var article = fs.readFileSync("res/newsArticles.txt", "utf8");
+    res.render("index.ejs", {
+      data: article,
     });
+  }).catch(err=>{
+    console.log(err)
+  })
 });
 
-
-var j = schedule.scheduleJob('1 1 * * * *', function() { //run every hour at minute 1 and 1 sec
-    console.log("Index File Updation Request Send." );
-    news.news_get(); 
+var j = schedule.scheduleJob("1 1 * * * *", function () {
+  //run every hour at minute 1 and 1 sec
+  console.log("Index File Updation Request Send.");
+  news.news_get();
 });
 
 app.listen(port);
