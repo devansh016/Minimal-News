@@ -1,102 +1,101 @@
 <div class="news row">
-            <a href="https://news.google.com/__i/rss/rd/articles/CBMiUmh0dHBzOi8vd3d3LmFncmltYXJvYy5tYS9ndWVsbWltLW91ZC1ub3VuLWNvbmRhbW5lLWxhLWRlY2lzaW9uLWR1LXRyaWJ1bmFsLWRlLWx1ZS_SAQA?oc=5" target="_blank" class="news card">
-            <h3 class="news">1<!-- -->. <!-- -->Guelmim-Oud Noun condamne la décision du Tribunal de l'UE – AgriMaroc.ma - Agriculture Maroc</h3>
+            <a href="https://2m.ma/fr/news/marocmeteo-temps-stable-et-peu-nuageux-ce-lundi-04-octobre-20211003/" target="_blank" class="news card">
+            <h3 class="news">1<!-- -->. <!-- -->Maroc/Météo : Temps stable et peu nuageux ce lundi 04 octobre - 2M Maroc</h3>
+            <div class="news byline"><span class="news source">2m.ma</span>
+            <span class="news timeago"><time dateTime="2021-10-04T06:03:29Z" title="2021-10-04T06:03:29Z">1 hours ago</time>
+            </span></div><p class="news">Le temps s'annonce stable et peu nuageux à clair en général pour la journée du lundi 04 octobre 2021, selon les prévisions météorologiques établies par la Direction générale de la météorologie. Des nuages bas denses snt attendus la matinée sur les plaines Nor…</p></a></div><div class="news row">
+            <a href="https://news.google.com/__i/rss/rd/articles/CBMinwFodHRwczovL3d3dy5vdWVzdC1mcmFuY2UuZnIvc2FudGUvdmlydXMvY29yb25hdmlydXMvbmlvcnQtbGEtY3Jpc2UtZHUtY292aWQtMTktYS1yZW5mb3JjZS1sZXVyLWVudmllLWRlLWRldmVuaXItaW5maXJtaWVycy00MGQwNDI3Yy0yMWY4LTExZWMtODM2Zi1kNzFjMDZhODc3NDXSAQA?oc=5" target="_blank" class="news card">
+            <h3 class="news">2<!-- -->. <!-- -->Niort. La crise du Covid-19 a renforcé leur envie de devenir infirmiers - Ouest-France</h3>
             <div class="news byline"><span class="news source">Google News</span>
-            <span class="news timeago"><time dateTime="2021-10-03T23:53:02Z" title="2021-10-03T23:53:02Z">1 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-04T06:01:04Z" title="2021-10-04T06:01:04Z">1 hours ago</time>
             </span></div><p class="news">null</p></a></div><div class="news row">
+            <a href="https://orientxxi.info/magazine/peche-la-justice-europeenne-a-contre-courant-sur-le-sahara-occidental,5081" target="_blank" class="news card">
+            <h3 class="news">3<!-- -->. <!-- -->Pêche. La justice européenne à contre-courant sur le Sahara occidental - Orient XXI</h3>
+            <div class="news byline"><span class="news source">Orientxxi.info</span>
+            <span class="news timeago"><time dateTime="2021-10-04T04:07:30Z" title="2021-10-04T04:07:30Z">3 hours ago</time>
+            </span></div><p class="news">Le tribunal de l’Union européenne vient d’annuler deux accords entre le Maroc et l’Europe, portant notamment sur les droits de pêche. Le Front Polisario s’en (...)</p></a></div><div class="news row">
+            <a href="https://www.francebleu.fr/infos/sante-sciences/la-baisse-des-depistages-du-cancer-du-sein-en-2020-inquiete-en-drome-ardeche-1633110231" target="_blank" class="news card">
+            <h3 class="news">4<!-- -->. <!-- -->La baisse des dépistages du cancer du sein en 2020 inquiète en Drôme Ardèche - France Bleu</h3>
+            <div class="news byline"><span class="news source">France Bleu</span>
+            <span class="news timeago"><time dateTime="2021-10-04T00:56:21Z" title="2021-10-04T00:56:21Z">6 hours ago</time>
+            </span></div><p class="news">Le cancer du sein est toujours le plus fréquent chez les femmes. Face à la baisse du nombre de dépistages en 2020, les associations lancent un appel urgent à la remobilisation en Drôme Ardèche.</p></a></div><div class="news row">
             <a href="http://french.china.org.cn/foreign/txt/2021-10/04/content_77789377.htm" target="_blank" class="news card">
-            <h3 class="news">2<!-- -->. <!-- -->Maroc : démarrage lundi de l'opération de l'injection d'une 3e dose de vaccin contre la COVID-19 - Centre d'Informations Internet de Chine</h3>
+            <h3 class="news">5<!-- -->. <!-- -->Maroc : démarrage lundi de l'opération de l'injection d'une 3e dose de vaccin contre la COVID-19 - Centre d'Informations Internet de Chine</h3>
             <div class="news byline"><span class="news source">China.org.cn</span>
-            <span class="news timeago"><time dateTime="2021-10-03T22:08:36Z" title="2021-10-03T22:08:36Z">3 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T22:08:36Z" title="2021-10-03T22:08:36Z">9 hours ago</time>
             </span></div><p class="news">null</p></a></div><div class="news row">
-            <a href="https://www.lopinion.ma/Des-experts-marocains-plaident-pour-la-monetisation-des-applications-Android_a19288.html" target="_blank" class="news card">
-            <h3 class="news">3<!-- -->. <!-- -->Des experts marocains plaident pour la monétisation des applications Android - L'Opinion</h3>
+            <a href="https://www.lopinion.ma/Botola-Pro-D1-HUSA-MCO-1-2-Le-Mouloudia-surprend-le-Hassania-a-Agadir_a19296.html" target="_blank" class="news card">
+            <h3 class="news">6<!-- -->. <!-- -->Botola Pro D1 / HUSA-MCO (1-2) : Le Mouloudia surprend le Hassania à Agadir - L'Opinion</h3>
             <div class="news byline"><span class="news source">Lopinion.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T21:06:10Z" title="2021-10-03T21:06:10Z">4 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T21:19:30Z" title="2021-10-03T21:19:30Z">10 hours ago</time>
+            </span></div><p class="news">Le HUSA a enregistré sa deuxième défaite à domicile. Après le Wydad, c'était au tour du Mouloudia de venir s'approvisionner en victoire à Agadir. &nbsp;Une mi-temps était suffisante aux Oujdis pour marquer les deux buts leur offrant les 3 précieux trois point…</p></a></div><div class="news row">
+            <a href="https://www.lopinion.ma/Des-experts-marocains-plaident-pour-la-monetisation-des-applications-Android_a19288.html" target="_blank" class="news card">
+            <h3 class="news">7<!-- -->. <!-- -->Des experts marocains plaident pour la monétisation des applications Android - L'Opinion</h3>
+            <div class="news byline"><span class="news source">Lopinion.ma</span>
+            <span class="news timeago"><time dateTime="2021-10-03T21:06:10Z" title="2021-10-03T21:06:10Z">10 hours ago</time>
             </span></div><p class="news">Dans une lettre signée par plus de 67 experts marocains (ingénieurs,développeurs, marketteurs…), Mehdi Sakout, Senior Android engineer, a adressé une lettre ouverte à Google plaidant pour la monétisation des applications Android au Maroc. «&nbsp;Alors&nbsp;qu…</p></a></div><div class="news row">
-            <a href="https://www.menara.ma/fr/article/guterres-informe-le-conseil-de-securite-des-acquis-diplomatiques-au-sahara-marocain" target="_blank" class="news card">
-            <h3 class="news">4<!-- -->. <!-- -->Guterres informe le Conseil de sécurité des acquis diplomatiques au Sahara marocain - Menara.ma</h3>
-            <div class="news byline"><span class="news source">Menara.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T20:34:11Z" title="2021-10-03T20:34:11Z">4 hours ago</time>
-            </span></div><p class="news">Ce rapport se distingue par la mise en exergue des acquis diplomatiques du Royaume au Sahara marocain durant l’année écoulée.
-Dans ce cadre, le SG de l’ONU a mis en avant les inaugurations historiques</p></a></div><div class="news row">
-            <a href="https://www.dw.com/fr/pandora-papers-enquete-journalistes-fiscale-dirigeants-publication-enquete/a-59393098" target="_blank" class="news card">
-            <h3 class="news">5<!-- -->. <!-- -->Pandora Papers, une enquête révèle l’évasion fiscale - DW (Français)</h3>
-            <div class="news byline"><span class="news source">DW (English)</span>
-            <span class="news timeago"><time dateTime="2021-10-03T19:05:11Z" title="2021-10-03T19:05:11Z">6 hours ago</time>
-            </span></div><p class="news">Plusieurs médias dont la DW révèlent que d’actuels et anciens dirigeants mondiaux sont affiliés à des sociétés nichées dans des paradis fiscaux offshores.</p></a></div><div class="news row">
+            <a href="https://africafootunited.com/botola-maroc-j5-le-raja-casablanca-concede-sa-premiere-defaite-de-la-saison/" target="_blank" class="news card">
+            <h3 class="news">8<!-- -->. <!-- -->Botola Maroc (J5) : le Raja Casablanca concède sa première défaite de la saison - AFRICA FOOT UNITED</h3>
+            <div class="news byline"><span class="news source">Africafootunited.com</span>
+            <span class="news timeago"><time dateTime="2021-10-03T20:19:35Z" title="2021-10-03T20:19:35Z">11 hours ago</time>
+            </span></div><p class="news">Fin de série pour le Raja Casablanca ! Vainqueurs dans leurs quatre premiers matchs de la saison, les Verts ont subi un coup d'arrêt en perdant à domicile</p></a></div><div class="news row">
+            <a href="https://le10sport.com/football/mercato/mercato-barcelone-569912" target="_blank" class="news card">
+            <h3 class="news">9<!-- -->. <!-- -->Mercato - Barcelone : Voilà comment Koeman a réussi à sauver sa peau ! - Le 10 Sport</h3>
+            <div class="news byline"><span class="news source">Le 10 Sport</span>
+            <span class="news timeago"><time dateTime="2021-10-03T20:00:00Z" title="2021-10-03T20:00:00Z">11 hours ago</time>
+            </span></div><p class="news">Joan Laporta avait acté le départ de Ronald Koeman en début de semaine. Mais une discussion, qui a eu lieu samedi, a tout changé. Explications.</p></a></div><div class="news row">
+            <a href="https://www.lesiteinfo.com/cultures/expo-2020-dubai-forte-mobilisation-au-pavillon-maroc/" target="_blank" class="news card">
+            <h3 class="news">10<!-- -->. <!-- -->Expo 2020 Dubaï : Forte mobilisation au Pavillon Maroc - LeSiteinfo Français</h3>
+            <div class="news byline"><span class="news source">Lesiteinfo.com</span>
+            <span class="news timeago"><time dateTime="2021-10-03T19:41:00Z" title="2021-10-03T19:41:00Z">11 hours ago</time>
+            </span></div><p class="news">Le Maroc participe à l'"Expo Dubaï 2020" avec un immense pavillon reflétant sa diversité et ses réalisations économiques, culturelles et scientifiques.</p></a></div><div class="news row">
+            <a href="https://www.lesiteinfo.com/economie/marche-ds-change-le-dirham-sapprecie-face-a-leuro/" target="_blank" class="news card">
+            <h3 class="news">11<!-- -->. <!-- -->Marché des changes: Le dirham s’apprécie face à l’euro - LeSiteinfo Français</h3>
+            <div class="news byline"><span class="news source">Lesiteinfo.com</span>
+            <span class="news timeago"><time dateTime="2021-10-03T19:34:00Z" title="2021-10-03T19:34:00Z">11 hours ago</time>
+            </span></div><p class="news">Le dirham s'est apprécié face à l'euro de 0,26% et s’est déprécié de 0,42% vis-à-vis du dollar américain, durant la période allant du 23 au 29 septembre dernier, selon Bank Al-Maghrib (BAM).</p></a></div><div class="news row">
             <a href="https://lematin.ma/journal/2021/lonu-salue-resultats-reunion-consultative-rabat-entre-delegations-chambre-representants-conseil-detat-libyen/365329.html" target="_blank" class="news card">
-            <h3 class="news">6<!-- -->. <!-- -->Le Matin - L'ONU salue les résultats de la réunion consultative de Rabat entre les délégations de la Chambre des représentants et du Haut Conseil d'État libyen - LE MATiN</h3>
+            <h3 class="news">12<!-- -->. <!-- -->Le Matin - L'ONU salue les résultats de la réunion consultative de Rabat entre les délégations de la Chambre des représentants et du Haut Conseil d'État libyen - LE MATiN</h3>
             <div class="news byline"><span class="news source">Lematin.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T17:58:00Z" title="2021-10-03T17:58:00Z">7 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T17:58:00Z" title="2021-10-03T17:58:00Z">13 hours ago</time>
             </span></div><p class="news">Le Matin - L’ONU salue les résultats de la réunion consultative de Rabat entre les délégations de la Chambre des représentants et du Haut Conseil d’État libyen</p></a></div><div class="news row">
             <a href="http://www.mapexpress.ma/actualite/societe-et-regions/3eme-dose-du-vaccin-les-groupes-risque-bien-proteges-medecin/" target="_blank" class="news card">
-            <h3 class="news">7<!-- -->. <!-- -->Avec la 3ème dose du vaccin, les groupes à risque sont bien protégés (médecin) | MAP Express MAP Express - MAP Express</h3>
+            <h3 class="news">13<!-- -->. <!-- -->Avec la 3ème dose du vaccin, les groupes à risque sont bien protégés (médecin) | MAP Express MAP Express - MAP Express</h3>
             <div class="news byline"><span class="news source">Mapexpress.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T17:37:00Z" title="2021-10-03T17:37:00Z">7 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T17:37:00Z" title="2021-10-03T17:37:00Z">13 hours ago</time>
             </span></div><p class="news">L'injection de la 3eme dose du vaccin anti-covid 19 est devenue une nécessité en vue de protéger les groupes à risque, a affirmé le médecin et chercheur en politiques et systèmes de santé, Dr Tayeb Hamdi.</p></a></div><div class="news row">
-            <a href="https://www.i24news.tv/fr/actu/israel/1633280894-israel-benny-gantz-prochainement-au-maroc-pour-finaliser-des-contrats-de-cooperation-en-matiere-de-defense-rapport" target="_blank" class="news card">
-            <h3 class="news">8<!-- -->. <!-- -->Israël: B. Gantz Prochainement Au Maroc Pour Finaliser Des Contrats De Coopération En Matière De Défense (rapport) - I24NEWS - i24NEWS en Français</h3>
-            <div class="news byline"><span class="news source">i24NEWS</span>
-            <span class="news timeago"><time dateTime="2021-10-03T17:08:19Z" title="2021-10-03T17:08:19Z">8 hours ago</time>
-            </span></div><p class="news">null</p></a></div><div class="news row">
+            <a href="https://www.libe.ma/Residences-Dar-Saada-realise-un-resultat-net-semestriel-dans-le-vert_a128828.html" target="_blank" class="news card">
+            <h3 class="news">14<!-- -->. <!-- -->Résidences Dar Saada réalise un résultat net semestriel dans le vert - libération</h3>
+            <div class="news byline"><span class="news source">Libe.ma</span>
+            <span class="news timeago"><time dateTime="2021-10-03T17:22:15Z" title="2021-10-03T17:22:15Z">14 hours ago</time>
+            </span></div><p class="news">Le Groupe Résidences Dar Saada a réalisé un bénéfice net de 6 millions de dirhams (MDH) au premier semestre 2021, contre une perte nette de 36 MDH durant la même période de 2020. Le chiffre d'affaires du Groupe s'est établi, à cette date, à 327 MDH, contre 47…</p></a></div><div class="news row">
             <a href="https://medias24.com/2021/10/03/lalgerie-interdit-son-espace-aerien-aux-avions-militaires-francais/" target="_blank" class="news card">
-            <h3 class="news">9<!-- -->. <!-- -->L'Algérie interdit son espace aérien aux avions militaires français - Médias 24</h3>
+            <h3 class="news">15<!-- -->. <!-- -->L'Algérie interdit son espace aérien aux avions militaires français - Médias 24</h3>
             <div class="news byline"><span class="news source">Medias24.com</span>
-            <span class="news timeago"><time dateTime="2021-10-03T17:07:28Z" title="2021-10-03T17:07:28Z">8 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T17:07:28Z" title="2021-10-03T17:07:28Z">14 hours ago</time>
             </span></div><p class="news">Le porte-parole de l'état-major français indique que l'Algérie a interdit le survol de son territoire par les avions militaires français. Une décision qui, selon lui, n'affecte ni les opérations ni les missions de renseignement menées dans le Sahel.</p></a></div><div class="news row">
             <a href="https://www.futura-sciences.com/tech/actualites/cybersecurite-millions-smartphones-android-sont-victimes-applications-frauduleuses-93892/" target="_blank" class="news card">
-            <h3 class="news">10<!-- -->. <!-- -->Des millions de smartphones Android sont victimes d’applications frauduleuses - Futura</h3>
+            <h3 class="news">16<!-- -->. <!-- -->Des millions de smartphones Android sont victimes d’applications frauduleuses - Futura</h3>
             <div class="news byline"><span class="news source">Futura</span>
-            <span class="news timeago"><time dateTime="2021-10-03T17:01:19Z" title="2021-10-03T17:01:19Z">8 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T17:01:19Z" title="2021-10-03T17:01:19Z">14 hours ago</time>
             </span></div><p class="news">Un nouveau cheval de Troie a été découvert se cachant dans plus d’une centaine d’applications sur le Play Store d’Android. Il aurait déjà fait plus de dix millions de victimes à travers le monde...</p></a></div><div class="news row">
-            <a href="https://www.lopinion.ma/Compteur-coronavirus-504-nouveaux-cas-Region-Rabat-Sale-Kenitra-en-tete-de-liste_a19286.html" target="_blank" class="news card">
-            <h3 class="news">11<!-- -->. <!-- -->Compteur coronavirus : 504 nouveaux cas, Région Rabat-Salé-Kénitra en tête de liste - L'Opinion</h3>
-            <div class="news byline"><span class="news source">Lopinion.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T16:59:59Z" title="2021-10-03T16:59:59Z">8 hours ago</time>
-            </span></div><p class="news">Un total de 504 nouveaux cas d'infection au Covid-19, 813 guérisons et 24 décès ont été enregistrés au cours des dernières 24 heures au Maroc. Pour ce qui est des bénéficiaires du vaccin, leur nombre a atteint 22.758.556 depuis le début de la campagne, a anno…</p></a></div><div class="news row">
-            <a href="https://www.lefigaro.fr/sciences/cancer-du-sein-des-femmes-agees-stop-a-l-inegalite-des-chances-20211003" target="_blank" class="news card">
-            <h3 class="news">12<!-- -->. <!-- -->«Cancer du sein des femmes âgées: stop à l'inégalité des chances!» - Le Figaro</h3>
-            <div class="news byline"><span class="news source">Lefigaro.fr</span>
-            <span class="news timeago"><time dateTime="2021-10-03T16:25:15Z" title="2021-10-03T16:25:15Z">8 hours ago</time>
-            </span></div><p class="news">TRIBUNE - Plus de soixante cancérologues dénoncent une injustice: à partir de 75 ans, les femmes sont victimes d’une discrimination évidente.</p></a></div><div class="news row">
+            <a href="https://www.h24info.ma/monde/premier-vol-officiel-degypt-air-en-israel/" target="_blank" class="news card">
+            <h3 class="news">17<!-- -->. <!-- -->Premier vol officiel d'Egypt Air en Israël , H24info - H24info le portail d'information Marocain</h3>
+            <div class="news byline"><span class="news source">H24info.ma</span>
+            <span class="news timeago"><time dateTime="2021-10-03T16:51:18Z" title="2021-10-03T16:51:18Z">14 hours ago</time>
+            </span></div><p class="news">La compagnie aérienne égyptienne Egypt Air a fait atterrir un avion en Israël, pour la première fois de manière officielle et avec son logo sur l’appareil, ont indiqué dimanche les…</p></a></div><div class="news row">
             <a href="https://www.lopinion.ma/Apple-Dix-ans-apres-la-mort-de-Steve-Jobs-de-la-magie-a-la-machine-a-profits_a19287.html" target="_blank" class="news card">
-            <h3 class="news">13<!-- -->. <!-- -->Apple : Dix ans après la mort de Steve Jobs, de la magie à la machine à profits - L'Opinion</h3>
+            <h3 class="news">18<!-- -->. <!-- -->Apple : Dix ans après la mort de Steve Jobs, de la magie à la machine à profits - L'Opinion</h3>
             <div class="news byline"><span class="news source">Lopinion.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T16:07:55Z" title="2021-10-03T16:07:55Z">9 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T16:07:55Z" title="2021-10-03T16:07:55Z">15 hours ago</time>
             </span></div><p class="news">Dix ans après la mort de Steve Jobs, Apple s’est transformée en un tentaculaire écosystème d’appareils et de services qui vaut plus cher que toute autre entreprise au monde mais qui a perdu son aura de laboratoire à « révolutions », pour les inconditionnels d…</p></a></div><div class="news row">
-            <a href="https://www.bladi.net/visas-maroc-victime-collaterale-tensions-france-algerie,86946.html" target="_blank" class="news card">
-            <h3 class="news">14<!-- -->. <!-- -->Visas : le Maroc, victime collatérale des tensions France-Algérie ? - Marocains du monde</h3>
-            <div class="news byline"><span class="news source">Bladi.net</span>
-            <span class="news timeago"><time dateTime="2021-10-03T16:00:00Z" title="2021-10-03T16:00:00Z">9 hours ago</time>
-            </span></div><p class="news">La décision de la France de réduire à 50 % l’octroi des visas pour les Marocains et les Algériens et de 30 % pour les Tunisiens s’explique par les tensions entre Paris et Alger.</p></a></div><div class="news row">
             <a href="https://laquotidienne.ma/article/economie/gestion-deleguee-les-nouvelles-precisions-importantes-de-lydec" target="_blank" class="news card">
-            <h3 class="news">15<!-- -->. <!-- -->Gestion déléguée : Les nouvelles précisions importantes de Lydec - laquotidienne.ma</h3>
+            <h3 class="news">19<!-- -->. <!-- -->Gestion déléguée : Les nouvelles précisions importantes de Lydec - laquotidienne.ma</h3>
             <div class="news byline"><span class="news source">Laquotidienne.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T15:51:06Z" title="2021-10-03T15:51:06Z">9 hours ago</time>
+            <span class="news timeago"><time dateTime="2021-10-03T15:51:06Z" title="2021-10-03T15:51:06Z">15 hours ago</time>
             </span></div><p class="news">Suite à l’annonce du lancement des Sociétés Régionales Multiservices (SRM) et en réponse à la demande des analystes financiers et des médias à vocation économique, Lydec a apporté des précisions, à travers un communiqué.</p></a></div><div class="news row">
-            <a href="https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vZnIuaGVzcHJlc3MuY29tLzIyNzI3OS1tYXJhdGhvbi1kZXMtc2FibGVzLXJhY2hpZC1lbC1tb3JhYml0eS1zYWRqdWdlLWxhLTFlcmUtZXRhcGUuaHRtbNIBZGh0dHBzOi8vZnIuaGVzcHJlc3MuY29tLzIyNzI3OS1tYXJhdGhvbi1kZXMtc2FibGVzLXJhY2hpZC1lbC1tb3JhYml0eS1zYWRqdWdlLWxhLTFlcmUtZXRhcGUuaHRtbC9hbXA?oc=5" target="_blank" class="news card">
-            <h3 class="news">16<!-- -->. <!-- -->Marathon des sables: Rachid El Morabity s’adjuge la 1ère étape - Hespress Français</h3>
-            <div class="news byline"><span class="news source">Google News</span>
-            <span class="news timeago"><time dateTime="2021-10-03T15:45:00Z" title="2021-10-03T15:45:00Z">9 hours ago</time>
-            </span></div><p class="news">null</p></a></div><div class="news row">
-            <a href="https://news.google.com/__i/rss/rd/articles/CBMiemh0dHA6Ly93d3cucGFyaXMtdHVyZi5jb20vYWN0dWFsaXRlcy9xdWludGUtZHUtZGltYW5jaGUtMy1vY3RvYnJlLWFyYy1kZS10cmlvbXBoZS10b3JxdWF0b3ItdGFzc28tZGVjcm9jaGUtbGUtZ3JhYWwtMjc4OTY50gEA?oc=5" target="_blank" class="news card">
-            <h3 class="news">17<!-- -->. <!-- -->Quinté+ du dimanche 3 octobre (Arc de Triomphe) : Torquator Tasso décroche le Graal - Paris Turf</h3>
-            <div class="news byline"><span class="news source">Google News</span>
-            <span class="news timeago"><time dateTime="2021-10-03T14:33:00Z" title="2021-10-03T14:33:00Z">10 hours ago</time>
-            </span></div><p class="news">null</p></a></div><div class="news row">
-            <a href="https://www.canalturf.com/infos-hippiques/44837_criterium-des-pouliches-gr-i-dimanche-a-parislongchamp-victoire-de-zellie-avec-la-maniere.html" target="_blank" class="news card">
-            <h3 class="news">18<!-- -->. <!-- -->Arrivée PMU Qatar Prix Marcel Boussac - Critérium des Pouliches (Gr. I), dimanche à ParisLongchamp. Victoire de ZELLIE avec la manière ! - Canal Turf</h3>
-            <div class="news byline"><span class="news source">Canalturf.com</span>
-            <span class="news timeago"><time dateTime="2021-10-03T12:54:15Z" title="2021-10-03T12:54:15Z">12 hours ago</time>
-            </span></div><p class="news">Dans ce Qatar Prix Marcel Boussac - Critérium des Pouliches, celle qui s'annonçait comme la grande favori, RACLETTE, a été déclarée non partante. La course a été animée par FLEUR D'IRIS [...]</p></a></div><div class="news row">
-            <a href="https://www.bladi.net/maroc-appels-boycott-produits-francais,86948.html" target="_blank" class="news card">
-            <h3 class="news">19<!-- -->. <!-- -->Maroc : appels au boycott des produits français - Marocains du monde</h3>
-            <div class="news byline"><span class="news source">Bladi.net</span>
-            <span class="news timeago"><time dateTime="2021-10-03T12:40:00Z" title="2021-10-03T12:40:00Z">12 hours ago</time>
-            </span></div><p class="news">Des appels au boycott des produits français ont été lancés au Maroc suite à la décision de la France de réduire à 50 %l’octroi des visas pour les Marocains et à celle de la justice européenne relative à l’annulation de deux accords de libre-échange portant su…</p></a></div><div class="news row">
-            <a href="https://www.mapexpress.ma/actualite/economie-et-finance/marche-changes-23-29-septembre-dirham-sapprecie-026-face-leuro-bam/" target="_blank" class="news card">
-            <h3 class="news">20<!-- -->. <!-- -->Marché des changes (23-29 septembre): Le dirham s'apprécie de 0,26% face à l'euro (BAM) | MAP Express MAP Express - MAP</h3>
-            <div class="news byline"><span class="news source">Mapexpress.ma</span>
-            <span class="news timeago"><time dateTime="2021-10-03T11:31:00Z" title="2021-10-03T11:31:00Z">13 hours ago</time>
-            </span></div><p class="news">Le dirham s'est apprécié face à l'euro de 0,26% et s’est déprécié de 0,42% vis-à-vis du dollar américain, durant la période allant du 23 au 29 septembre dernier, selon Bank Al-Maghrib (BAM).</p></a></div>
+            <a href="https://www.leconomiste.com/article/1082063-cgem-fes-meknes-amouri-devoile-son-programme" target="_blank" class="news card">
+            <h3 class="news">20<!-- -->. <!-- -->CGEM Fès-Meknès: Amouri dévoile son programme - L'Économiste</h3>
+            <div class="news byline"><span class="news source">Leconomiste.com</span>
+            <span class="news timeago"><time dateTime="2021-10-03T14:51:05Z" title="2021-10-03T14:51:05Z">16 hours ago</time>
+            </span></div><p class="news">Les candidats de la CGEM pour les élections de la Chambre des conseillers sont en campagne. Dans la circonscription Nord (Fès-Meknès, l’Oriental et Tanger-Tétouan-Al Hoceïma), trois listes sont en lice pour briguer deux sièges. Accrédité par le bureau de la C…</p></a></div>

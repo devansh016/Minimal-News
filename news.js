@@ -5,20 +5,14 @@ const newsSize = process.env.PAGE_SIZE;
 const apiKey = process.env.NEWS_API;
 const country = process.env.NEWS_COUNTRY;
 
-function news_get(countryISO) {
-  const country =
-    countryISO && countryISO.length > 0 ? countryISO : process.env.NEWS_COUNTRY;
+function news_get() { 
 
   var requestOptions = {
     method: "GET",
     redirect: "follow",
-  };
-
-  console.log(
-    "🍏 ",
-    `https://newsapi.org/v2/top-headlines?country=${country}&apiKey=${apiKey}&pageSize=${newsSize}`
-  );
-  return fetch(url, requestOptions)
+  }; 
+   
+   fetch(`https://newsapi.org/v2/top-headlines?country=${country}&apiKey=${apiKey}&pageSize=${newsSize}`, requestOptions)
     .then((response) => response.json())
     .then((json) => {
       let pr;

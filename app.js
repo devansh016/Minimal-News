@@ -39,17 +39,13 @@ app.use("/feedback", (req, res, next) => {
   res.sendFile(path.join(__dirname, "/" + "views" + "/" + "feedback.html"));
 });
 
-
 //Serve Index Page
 app.use("/:county?", (req, res, next) => {
-  news.news_get(req.params.county).then(() => {
-    var article = fs.readFileSync("res/newsArticles.txt", "utf8");
-    res.render("index.ejs", {
-      data: article,
-    });
-  }).catch(err=>{
-    console.log(err)
-  })
+  news.news_get(req.params.county);
+  var article = fs.readFileSync("res/newsArticles.txt", "utf8");
+  res.render("index.ejs", {
+    data: article,
+  });
 });
 
 var j = schedule.scheduleJob("1 1 * * * *", function () {
