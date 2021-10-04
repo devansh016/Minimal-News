@@ -51,7 +51,6 @@ function getCookie(name) {
     return "";
 }
 
-<<<<<<< HEAD
 // Scroll to top button 
 const ScrollToTop = document.getElementById('scroll-to-top');
 
@@ -62,20 +61,3 @@ window.addEventListener('scroll', () => {
         ScrollToTop.classList.remove('active')
     }
 });
-=======
-// function to show back to top button on scroll
-window.onscroll = () => {
-    let scroll = window.scrollY || document.documentElement.scrollTop
-    let button = document.querySelector('.backToTop')
-    if(scroll > 800){
-        button.style.visibility = "visible"
-    }else {
-        button.style.visibility = "hidden"
-    }
-}
-
-// function to back to top 
-function backToTop(){
-    return window.scrollTo(0,0)
-}
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0

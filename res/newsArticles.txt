@@ -1,125 +1,101 @@
 <div class="news row">
-                <a href="https://indianexpress.com/article/sports/ipl/ipl-2021-kkr-vs-srh-live-score-online-streaming-updates-7549616/" target="_blank" class="news card">
-                <h3 class="news">1<!-- -->. <!-- -->IPL 2021, KKR vs SRH Live Score Updates: Mavi removes Roy, SRH two down - The Indian Express</h3>
-                <div class="news byline"><span class="news source">The Indian Express</span>
-                <span class="news timeago"><time dateTime="2021-10-03T14:32:57Z" title="2021-10-03T14:32:57Z">2 hours ago</time>
-                </span></div><p class="news">IPL 2021, Kolkata Knight Riders vs Sunrisers Hyderabad Live Score Online Updates: KKR are placed fourth on the table with 10 points while SRH are at the bottom of the table.</p></a></div><div class="news row">
-                <a href="https://news.abplive.com/technology/gadgets/amazon-great-indian-festival-sale-check-biggest-sale-on-smartwatches-50-percent-discount-on-fitness-bands-trs-1485718" target="_blank" class="news card">
-                <h3 class="news">2<!-- -->. <!-- -->Amazon Great Indian Festival Sale: Check Biggest Offers On Smartwatches, 50% Discount On Fitness Bands - ABP Live</h3>
-                <div class="news byline"><span class="news source">Abplive.com</span>
-<<<<<<< HEAD
-                <span class="news timeago"><time dateTime="2021-10-03T13:46:30Z" title="2021-10-03T13:46:30Z">3 hours ago</time>
-=======
-                <span class="news timeago"><time dateTime="2021-10-03T13:46:30Z" title="2021-10-03T13:46:30Z">2 hours ago</time>
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
-                </span></div><p class="news">Amazon Great Indian Festival Sale: If you are planning to buy a smartwatch of any brand, don't forget to check out the ongoing sale at Amazon. You can avail 50% discount on branded fitness bands.</p></a></div><div class="news row">
-                <a href="https://www.aljazeera.com/news/2021/10/3/cyclone-shaheen-approaches-oman-flights-delayed" target="_blank" class="news card">
-                <h3 class="news">3<!-- -->. <!-- -->Cyclone Shaheen approaches Oman - Al Jazeera English</h3>
-                <div class="news byline"><span class="news source">Al Jazeera English</span>
-                <span class="news timeago"><time dateTime="2021-10-03T13:38:22Z" title="2021-10-03T13:38:22Z">3 hours ago</time>
-                </span></div><p class="news">Residents urged to evacuate coastal areas and authorities delay flights to and from capital Muscat.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/tv/news/hindi/ghanshyam-nayak-aka-nattu-kaka-of-taarak-mehta-ka-ooltah-chashmah-passes-away-exclusive/articleshow/86730022.cms" target="_blank" class="news card">
-                <h3 class="news">4<!-- -->. <!-- -->Ghanshyam Nayak aka Nattu kaka of Taarak Mehta Ka Ooltah Chashmah passes away; Exclusive - Times of India</h3>
-                <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-03T13:36:00Z" title="2021-10-03T13:36:00Z">3 hours ago</time>
-                </span></div><p class="news">ETimes TV has exclusively learnt that the seasoned actor, who was battling cancer and was undergoing chemotherapy</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-is-obesity-linked-to-covid-mortality-heres-what-study-suggests/photostory/86725691.cms" target="_blank" class="news card">
-                <h3 class="news">5<!-- -->. <!-- -->Coronavirus: Is obesity linked to COVID mortality? Here's what study suggests - Times of India</h3>
-                <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-03T13:30:00Z" title="2021-10-03T13:30:00Z">3 hours ago</time>
-                </span></div><p class="news">Since the onset of the novel coronavirus, scientists have listed down a number of factors that increase your risk of contracting the virus. people with underlying chronic illnesses such as cardiovascular diseases, cancer and diabetes are more prone to COVID-1…</p></a></div><div class="news row">
-                <a href="https://indianexpress.com/article/india/farmers-protest-lakhimpur-kheri-uttar-pradesh-minister-car-run-over-7549666/" target="_blank" class="news card">
-                <h3 class="news">6<!-- -->. <!-- -->UP: Farmers allegedly run over by convoy linked to Union minister’s son; three dead, claims BKU - The Indian Express</h3>
-                <div class="news byline"><span class="news source">The Indian Express</span>
-                <span class="news timeago"><time dateTime="2021-10-03T13:09:25Z" title="2021-10-03T13:09:25Z">3 hours ago</time>
-                </span></div><p class="news">Samyukta Kisan Morcha spokesperson Jagtaar Singh Bajwa, said, “In Lakhimpur Kheri’s Tikunia area, farmers were protesting peacefully. The Union Minister of State's son ran his car over them. In the incident, several farmers are injured and some have died."</p></a></div><div class="news row">
-                <a href="https://www.hindustantimes.com/india-news/after-consultation-with-party-chief-charanjit-singh-channi-placates-sidhu-on-appointment-issue-101633265770736.html" target="_blank" class="news card">
-                <h3 class="news">7<!-- -->. <!-- -->'After consultation with party chief': Charanjit Singh Channi placates Sidhu on appointment issue - Hindustan Times</h3>
-                <div class="news byline"><span class="news source">Hindustan Times</span>
-                <span class="news timeago"><time dateTime="2021-10-03T13:04:25Z" title="2021-10-03T13:04:25Z">3 hours ago</time>
-                </span></div><p class="news">Charanjit Singh Channi said no decision has been made on DGP appointment and it will be taken after consulting with Sidhu, all ministers and MLAs.  | Latest News India</p></a></div><div class="news row">
-                <a href="https://indianexpress.com/article/world/bomb-targets-mosque-in-kabul-a-number-of-civilians-dead-7549297/" target="_blank" class="news card">
-                <h3 class="news">8<!-- -->. <!-- -->Bomb targets mosque in Kabul, ‘a number of civilians’ dead - The Indian Express</h3>
-                <div class="news byline"><span class="news source">The Indian Express</span>
-<<<<<<< HEAD
-                <span class="news timeago"><time dateTime="2021-10-03T12:52:42Z" title="2021-10-03T12:52:42Z">4 hours ago</time>
-=======
-                <span class="news timeago"><time dateTime="2021-10-03T12:52:42Z" title="2021-10-03T12:52:42Z">3 hours ago</time>
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
-                </span></div><p class="news">The bomb targeted the Eidgah Mosque, where a memorial service was being held for the mother of Taliban spokesman Zabihullah Mujahid.</p></a></div><div class="news row">
-                <a href="https://www.business-standard.com/article/current-affairs/zydus-cadila-proposes-rs-1900-for-3-dose-covid-vaccine-govt-negotiating-121100300578_1.html" target="_blank" class="news card">
-                <h3 class="news">9<!-- -->. <!-- -->Zydus Cadila proposes Rs 1900 for 3 dose Covid vaccine; Govt negotiating - Business Standard</h3>
+                <a href="https://www.carandbike.com/news/tata-punch-micro-suv-official-unveil-live-updates-features-specifications-launch-date-images-2562862" target="_blank" class="news card">
+                <h3 class="news">1<!-- -->. <!-- -->Tata Punch Micro SUV Official Unveil Live Updates: Features, Specifications, Launch Date, Images - carandbike</h3>
+                <div class="news byline"><span class="news source">Carandbike.com</span>
+                <span class="news timeago"><time dateTime="2021-10-04T06:31:08Z" title="2021-10-04T06:31:08Z">1 hours ago</time>
+                </span></div><p class="news">Tata Punch, the all-new micro SUV from Tata Motors is set to make its official debut in India today, and we'll be bringing you all the live updates from the unveiling event here.</p></a></div><div class="news row">
+                <a href="https://www.business-standard.com/article/markets/market-live-sensex-nifty-d-mart-aurobindo-pharma-indian-bank-nazara-121100400105_1.html" target="_blank" class="news card">
+                <h3 class="news">2<!-- -->. <!-- -->MARKETS: Sensex surges 600 pts, Nifty tests 17,700 in broad-based rally - Business Standard</h3>
                 <div class="news byline"><span class="news source">Business Standard</span>
-                <span class="news timeago"><time dateTime="2021-10-03T12:39:00Z" title="2021-10-03T12:39:00Z">4 hours ago</time>
-                </span></div><p class="news">As far as the price of the vaccine at which it will be procured is concerned, Union Health Secretary Rajesh Bhushan said the government is in conversation with the manufacturers</p></a></div><div class="news row">
-                <a href="https://www.hindustantimes.com/entertainment/telugu-cinema/samantha-akkineni-changes-name-on-social-media-after-split-with-naga-chaitanya-101633263336240.html" target="_blank" class="news card">
-                <h3 class="news">10<!-- -->. <!-- -->Samantha Akkineni changes name on social media after split with Naga Chaitanya - Hindustan Times</h3>
-                <div class="news byline"><span class="news source">Hindustan Times</span>
-                <span class="news timeago"><time dateTime="2021-10-03T12:33:43Z" title="2021-10-03T12:33:43Z">4 hours ago</time>
-                </span></div><p class="news">Samantha Akkineni has changed her name once again on social media. After going by ‘S’ for sometime, she has changed it to ‘Samantha’.</p></a></div><div class="news row">
-                <a href="https://sports.ndtv.com/ipl-2021/live-score-rcb-vs-pbks-live-cricket-score-royal-challengers-bangalore-vs-punjab-kings-rcb-eye-playoffs-pbks-look-to-keep-winning-momentum-going-2562173" target="_blank" class="news card">
-                <h3 class="news">11<!-- -->. <!-- -->IPL 2021, RCB vs PBKS Live Score: KL Rahul, Mayank Agarwal Get Punjab Kings Off To Fine Start In Chase - NDTV Sports</h3>
+                <span class="news timeago"><time dateTime="2021-10-04T06:29:25Z" title="2021-10-04T06:29:25Z">1 hours ago</time>
+                </span></div><p class="news">Stock market LIVE: On the BSE, shares of over 2,300 companies were trading higher while those of 200 were in the red</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/india-news/assam-congress-mla-arrested-for-controversial-remark-on-those-who-lost-lives-in-1983-agitation-suspended-2562958" target="_blank" class="news card">
+                <h3 class="news">3<!-- -->. <!-- -->Assam Congress MLA, Arrested For Remark On 1983 Agitation, Suspended - NDTV</h3>
                 <div class="news byline"><span class="news source">NDTV News</span>
-                <span class="news timeago"><time dateTime="2021-10-03T12:23:10Z" title="2021-10-03T12:23:10Z">4 hours ago</time>
-                </span></div><p class="news">IPL 2021, Royal Challengers Bangalore vs Punjab Kings Live Score: PBKS openers KL Rahul and Mayank Agarwal started well in pursuit of the 165-run target against RCB in Sharjah.</p></a></div><div class="news row">
-                <a href="https://www.livescience.com/climate-change-dimming-earth" target="_blank" class="news card">
-                <h3 class="news">12<!-- -->. <!-- -->Climate change is making Earth dimmer - Livescience.com</h3>
-                <div class="news byline"><span class="news source">Live Science</span>
-                <span class="news timeago"><time dateTime="2021-10-03T12:21:48Z" title="2021-10-03T12:21:48Z">4 hours ago</time>
-                </span></div><p class="news">Earth is reflecting less light as its climate continues to change, new research suggests.</p></a></div><div class="news row">
-                <a href="https://tech.hindustantimes.com/gaming/news/joy-fortnite-brings-back-vaulted-shockwave-launcher-item-71633263608826.html" target="_blank" class="news card">
-                <h3 class="news">13<!-- -->. <!-- -->Joy! Fortnite brings back vaulted Shockwave Launcher item - HT Tech</h3>
-                <div class="news byline"><span class="news source">Hindustan Times</span>
-                <span class="news timeago"><time dateTime="2021-10-03T12:20:08Z" title="2021-10-03T12:20:08Z">4 hours ago</time>
-                </span></div><p class="news">Fortnite Shockwave Launcher is back in the game! Players had voiced support for this as part of the War Effort vote.</p></a></div><div class="news row">
-                <a href="https://www.livemint.com/science/news/in-which-ways-is-mars-similar-to-earth-latest-study-explains-11633259175849.html" target="_blank" class="news card">
-                <h3 class="news">14<!-- -->. <!-- -->In which ways is Mars similar to Earth? Latest study explains - Mint</h3>
-                <div class="news byline"><span class="news source">Livemint</span>
-<<<<<<< HEAD
-                <span class="news timeago"><time dateTime="2021-10-03T11:42:33Z" title="2021-10-03T11:42:33Z">5 hours ago</time>
-=======
-                <span class="news timeago"><time dateTime="2021-10-03T11:42:33Z" title="2021-10-03T11:42:33Z">4 hours ago</time>
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
-                </span></div><p class="news">A new study is looking to understand the phenomena of wind on Mars by focusing on what happens when two dunes collide there</p></a></div><div class="news row">
-                <a href="https://www.firstpost.com/firstcricket/sports-news/highlights-australia-women-vs-india-women-pink-ball-test-full-cricket-score-mithali-and-cos-day-night-debut-ends-in-a-draw-10018311.html" target="_blank" class="news card">
-                <h3 class="news">15<!-- -->. <!-- -->Highlights, Australia Women vs India Women pink-ball.. Score: Mithali and Cos day-night debut ends in a draw - Firstpost</h3>
-                <div class="news byline"><span class="news source">Firstpost</span>
-<<<<<<< HEAD
-                <span class="news timeago"><time dateTime="2021-10-03T11:40:25Z" title="2021-10-03T11:40:25Z">5 hours ago</time>
-=======
-                <span class="news timeago"><time dateTime="2021-10-03T11:40:25Z" title="2021-10-03T11:40:25Z">4 hours ago</time>
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
-                </span></div><p class="news">India vs Australia Women Cricket, India vs Australia, Day-Night pink ball Test When And Where to Watch IND vs AUS Live Cricket Match Online And on TV</p></a></div><div class="news row">
-                <a href="https://zeenews.india.com/delhi/viral-video-air-india-plane-gets-stuck-under-foot-over-bridge-near-airport-watch-2399401.html" target="_blank" class="news card">
-                <h3 class="news">16<!-- -->. <!-- -->Air India plane gets stuck under foot over bridge near airport - WATCH - Zee News</h3>
-                <div class="news byline"><span class="news source">India.com</span>
-                <span class="news timeago"><time dateTime="2021-10-03T11:12:14Z" title="2021-10-03T11:12:14Z">5 hours ago</time>
-                </span></div><p class="news">Netizens were left amused when a video of a scrapped Air India plane stuck under a foot over bridge surfaced on social media on Sunday morning. The nearly 40-second clip shows a plane stuck underneath a foot overbridge at the Delhi-Gurugram highway near Delhi…</p></a></div><div class="news row">
-                <a href="https://economictimes.indiatimes.com/news/company/corporate-trends/india-inc-is-out-of-the-woods-say-rating-agencies/articleshow/86727291.cms" target="_blank" class="news card">
-                <h3 class="news">17<!-- -->. <!-- -->India Inc is out of the woods, say rating agencies - Economic Times</h3>
-                <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-03T11:10:00Z" title="2021-10-03T11:10:00Z">5 hours ago</time>
-                </span></div><p class="news">Analysis of corporate borrowers by rating agencies showed that downgrades far exceeded upgrades in the first half of the current fiscal year, which is in stark contrast to the trend witnessed in the past two years.</p></a></div><div class="news row">
-                <a href="https://www.news18.com/news/india/mumbai-drug-bust-live-updates-aryan-khans-lawyer-says-filing-for-bail-ncb-gets-1-day-custody-of-3-accused-4276991.html" target="_blank" class="news card">
-                <h3 class="news">18<!-- -->. <!-- -->Mumbai Drug Bust LIVE Updates: 3, Including Shah Rukh Khan's Son Aryan Khan, Arrested; Cordelia Cruises ‘Co - News18</h3>
+                <span class="news timeago"><time dateTime="2021-10-04T06:27:00Z" title="2021-10-04T06:27:00Z">1 hours ago</time>
+                </span></div><p class="news">The Assam Congress today suspended its MLA, Sherman Ali Ahmed, days after he was arrested for making provocative statements on an eviction drive around 40 years ago. In a one-line statement, Congress said that it has suspended Mr Ahmed with immediate</p></a></div><div class="news row">
+                <a href="https://gadgets.ndtv.com/apps/news/whatsapp-global-voice-message-player-disappearing-messages-ephemeral-duration-update-testing-android-ios-2562998" target="_blank" class="news card">
+                <h3 class="news">4<!-- -->. <!-- -->WhatsApp Tipped to Introduce a Global Voice Message Player, Testing Updated Disappearing Messages Feature - Gadgets 360</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-10-04T06:23:28Z" title="2021-10-04T06:23:28Z">1 hours ago</time>
+                </span></div><p class="news">WhatsApp is tipped to be upgrading its voice messages function with a global voice message player that would let you listen to voice messages even when you look at your recent chats or moving to a particular section on the app. Separately, WhatsApp has starte…</p></a></div><div class="news row">
+                <a href="https://www.news18.com/news/tech/tiktok-pubg-moble-were-the-most-downloaded-top-earning-apps-globally-report-4281041.html" target="_blank" class="news card">
+                <h3 class="news">5<!-- -->. <!-- -->TikTok, PUBG Moble Were The Most-Downloaded, Top Earning Apps Globally: Report - News18</h3>
                 <div class="news byline"><span class="news source">News18</span>
-<<<<<<< HEAD
-                <span class="news timeago"><time dateTime="2021-10-03T10:52:57Z" title="2021-10-03T10:52:57Z">6 hours ago</time>
-=======
-                <span class="news timeago"><time dateTime="2021-10-03T10:52:57Z" title="2021-10-03T10:52:57Z">5 hours ago</time>
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
-                </span></div><p class="news">Mumbai Drug Bust LIVE Updates: The Narcotics Control Bureau has taken Shah Rukh Khan's son Aryan Khan, Arbaz Seth Merchant and Munmun Dhamecha, all accused in the NCB drug bust case, to the court.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/world/europe/afghanistan-on-verge-of-socio-economic-collapse-eus-top-diplomat-says/articleshow/86726939.cms" target="_blank" class="news card">
-                <h3 class="news">19<!-- -->. <!-- -->Afghanistan on verge of socio-economic collapse, EU's top diplomat says - Times of India</h3>
+                <span class="news timeago"><time dateTime="2021-10-04T06:19:30Z" title="2021-10-04T06:19:30Z">1 hours ago</time>
+                </span></div><p class="news">ByteDance's TikTok and Krafton's PUBG Mobile were the best-performing apps in terms of generating revenue and the amount of downloads.</p></a></div><div class="news row">
+                <a href="https://www.techexplorist.com/earth-brightness-dropping-due-ocean-warming/41586/" target="_blank" class="news card">
+                <h3 class="news">6<!-- -->. <!-- -->Earth’s brightness is dropping due to ocean warming - Tech Explorist</h3>
+                <div class="news byline"><span class="news source">Tech Explorist</span>
+                <span class="news timeago"><time dateTime="2021-10-04T05:38:10Z" title="2021-10-04T05:38:10Z">1 hours ago</time>
+                </span></div><p class="news">Climate change could be to blame.</p></a></div><div class="news row">
+                <a href="https://tech.hindustantimes.com/tv/reviews/sony-bravia-55x90j-review-we-like-what-we-see-71633316601521.html" target="_blank" class="news card">
+                <h3 class="news">7<!-- -->. <!-- -->Sony Bravia 55X90J review: We like what we see - HT Tech</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-10-04T05:30:03Z" title="2021-10-04T05:30:03Z">2 hours ago</time>
+                </span></div><p class="news">The Sony Bravia 55X90J with the XR Cognitive Processor is a formidable offering in this ever-evolving smart TV space.</p></a></div><div class="news row">
+                <a href="https://news.google.com/__i/rss/rd/articles/CBMifmh0dHBzOi8vd3d3LnRoZWhpbmR1LmNvbS9uZXdzL25hdGlvbmFsL2xha2hpbXB1ci1raGVyaS1pc3N1ZS1saXZlLXByaXlhbmthLWdhbmRoaS1kZWVwZW5kZXItaG9vZGEtZGV0YWluZWQvYXJ0aWNsZTM2ODE3MjQ0LmVjZdIBgwFodHRwczovL3d3dy50aGVoaW5kdS5jb20vbmV3cy9uYXRpb25hbC9sYWtoaW1wdXIta2hlcmktaXNzdWUtbGl2ZS1wcml5YW5rYS1nYW5kaGktZGVlcGVuZGVyLWhvb2RhLWRldGFpbmVkL2FydGljbGUzNjgxNzI0NC5lY2UvYW1wLw?oc=5" target="_blank" class="news card">
+                <h3 class="news">8<!-- -->. <!-- -->Lakhimpur Kheri violence live | Akhilesh Yadav, Priyanka Gandhi detained - The Hindu</h3>
+                <div class="news byline"><span class="news source">Google News</span>
+                <span class="news timeago"><time dateTime="2021-10-04T05:30:00Z" title="2021-10-04T05:30:00Z">2 hours ago</time>
+                </span></div><p class="news">null</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/restless-anal-syndrome-a-post-covid-complication-causing-deep-anal-discomfort-heres-everything-we-know-so-far/photostory/86725164.cms" target="_blank" class="news card">
+                <h3 class="news">9<!-- -->. <!-- -->Restless Anal Syndrome: A post-COVID complication causing deep anal discomfort, here's everything we know so far - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
-<<<<<<< HEAD
-                <span class="news timeago"><time dateTime="2021-10-03T10:40:00Z" title="2021-10-03T10:40:00Z">6 hours ago</time>
-=======
-                <span class="news timeago"><time dateTime="2021-10-03T10:40:00Z" title="2021-10-03T10:40:00Z">5 hours ago</time>
->>>>>>> ba03e18aaab01416af1710df00eb12def9c15ea0
-                </span></div><p class="news">Europe News: BRUSSELS: Afghanistan is facing a breakdown of its economic and social systems that risks turning into a humanitarian catastrophe, the European Union'.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-covid-19-causes-blood-sugar-levels-to-rise-can-worsen-disease/photostory/86724985.cms" target="_blank" class="news card">
-                <h3 class="news">20<!-- -->. <!-- -->Coronavirus: COVID-19 causes blood sugar levels to rise, can worsen disease - Times of India</h3>
+                <span class="news timeago"><time dateTime="2021-10-04T05:30:00Z" title="2021-10-04T05:30:00Z">2 hours ago</time>
+                </span></div><p class="news">Not only is coronavirus known for its wide range of symptoms, but it also leaves a long-lasting impact on people infected with the same. Long COVID or post-COVID syndrome has deeply impacted the lives of many.</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/entertainment/tv/taarak-mehta-ka-ooltah-chashmah-s-natu-kaka-ghanshyam-nayak-s-funeral-dilip-joshi-bhavya-gandhi-attend-101633321888220.html" target="_blank" class="news card">
+                <h3 class="news">10<!-- -->. <!-- -->Taarak Mehta Ka Ooltah Chashmah's 'Natu Kaka' Ghanshyam Nayak's funeral: Dilip Joshi, Bhavya Gandhi attend - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-10-04T05:13:00Z" title="2021-10-04T05:13:00Z">2 hours ago</time>
+                </span></div><p class="news">Ghanshyam Nayak, better known as Nattu Kaka was laid to rest on Monday. He died of cancer at 77.</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/india-news/shah-rukh-khans-son-aryan-in-court-today-after-arrest-in-drugs-on-cruise-case-2562900" target="_blank" class="news card">
+                <h3 class="news">11<!-- -->. <!-- -->SRK's Son, Aryan, In Court Today After Arrest In Drugs-On-Cruise Case - NDTV</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-10-04T05:03:45Z" title="2021-10-04T05:03:45Z">2 hours ago</time>
+                </span></div><p class="news">Aryan Khan, son of megastar Shah Rukh Khan, will be produced before a court in Mumbai today, a day after he and seven others were arrested following a raid at a party on a cruise ship off the coast of Mumbai by the Narcotics Control Bureau or NCB.</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/did-you-know-that-kareena-kapoor-rejected-randhir-kapoors-idea-of-a-lavish-wedding-with-saif-ali-khan/articleshow/86746196.cms" target="_blank" class="news card">
+                <h3 class="news">12<!-- -->. <!-- -->Did you know that Kareena Kapoor rejected Randhir Kapoor's idea of a lavish wedding with Saif Ali Khan? - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-03T10:30:00Z" title="2021-10-03T10:30:00Z">6 hours ago</time>
-                </span></div><p class="news">When it comes to SARs-COV-2 virus, besides affecting healthy, fit people, it takes a heavy toll on those with pre-existing chronic conditions such as cardiovascular ailments, cancer and even diabetes.</p></a></div>
+                <span class="news timeago"><time dateTime="2021-10-04T04:56:00Z" title="2021-10-04T04:56:00Z">2 hours ago</time>
+                </span></div><p class="news">Randhir Kapoor recently revealed that Kareena Kapoor Khan wanted a low-key wedding with Saif Ali Khan and that she</p></a></div><div class="news row">
+                <a href="https://www.news18.com/news/movies/amid-samantha-ruth-prabhu-and-naga-chaitanyas-separation-siddharth-tweets-about-cheaters-4280531.html" target="_blank" class="news card">
+                <h3 class="news">13<!-- -->. <!-- -->Amid Samantha Ruth Prabhu and Naga Chaitanya's Separation, Siddharth Tweets About 'Cheaters' - News18</h3>
+                <div class="news byline"><span class="news source">News18</span>
+                <span class="news timeago"><time dateTime="2021-10-04T04:51:15Z" title="2021-10-04T04:51:15Z">2 hours ago</time>
+                </span></div><p class="news">After Samantha Ruth Prabhu and Naga Chaitanya announced their separation, the actress' rumoured ex-boyfriend Siddharth shared a cryptic post on his Twitter account.</p></a></div><div class="news row">
+                <a href="https://www.news18.com/news/politics/throne-for-mamata-pick-me-up-for-bjp-vindication-for-ec-little-something-for-all-in-bhabanipur-4280357.html" target="_blank" class="news card">
+                <h3 class="news">14<!-- -->. <!-- -->Throne for Mamata, Pick-Me-Up for BJP, Vindication for EC: Little Something for All in Bhabanipur - News18</h3>
+                <div class="news byline"><span class="news source">News18</span>
+                <span class="news timeago"><time dateTime="2021-10-04T04:36:04Z" title="2021-10-04T04:36:04Z">3 hours ago</time>
+                </span></div><p class="news">It was expected.</p></a></div><div class="news row">
+                <a href="https://news.google.com/__i/rss/rd/articles/CBMiK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9VXBFMU03ZFFFZnPSAQA?oc=5" target="_blank" class="news card">
+                <h3 class="news">15<!-- -->. <!-- -->Cyclone Shaheen strikes parts of Oman and Iran - Al Jazeera English</h3>
+                <div class="news byline"><span class="news source">Google News</span>
+                <span class="news timeago"><time dateTime="2021-10-04T04:18:21Z" title="2021-10-04T04:18:21Z">3 hours ago</time>
+                </span></div><p class="news">null</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2021-dc-vs-csk-understudy-rishabh-pant-up-against-mentor-ms-dhoni-in-battle-for-top-spot/articleshow/86745634.cms" target="_blank" class="news card">
+                <h3 class="news">16<!-- -->. <!-- -->IPL 2021, DC vs CSK: Understudy Rishabh Pant up against mentor MS Dhoni in battle for top spot - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-10-04T04:18:00Z" title="2021-10-04T04:18:00Z">3 hours ago</time>
+                </span></div><p class="news">Cricket News: MS Dhoni's legacy has hung like a shadow over Rishabh Pant's career. He has been forever proving that he is the ideal player to take Dhoni's mantle be</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/india-news/mundra-port-seizure-had-a-dry-run-on-june-9-govt-alarmed-over-drug-menace-101633319368139.html" target="_blank" class="news card">
+                <h3 class="news">17<!-- -->. <!-- -->Mundra port seizure had a dry run on June 9, govt alarmed over drug menace - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-10-04T03:55:18Z" title="2021-10-04T03:55:18Z">3 hours ago</time>
+                </span></div><p class="news">DRI, working on the leads provided by the June 9 dry run, was able to identify the drug runners, mode of payments and principals behind the Mundra port seizure.  | Latest News India</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/city/lucknow/7-new-dengue-cases-in-lucknow-larvae-found-at-16-houses/articleshow/86744922.cms" target="_blank" class="news card">
+                <h3 class="news">18<!-- -->. <!-- -->7 new dengue cases in Lucknow, larvae found at 16 houses - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-10-04T03:35:00Z" title="2021-10-04T03:35:00Z">4 hours ago</time>
+                </span></div><p class="news">Seven fresh dengue cases were reported in the city on Sunday, taking the count to 427 since January. Nearly 83% (354) of the total cases that have bee</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/high-cholesterol-signs-of-dangerously-high-cholesterol-levels-present-in-your-legs/photostory/86712234.cms" target="_blank" class="news card">
+                <h3 class="news">19<!-- -->. <!-- -->High cholesterol: Signs of dangerously high cholesterol levels present in your legs - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-10-04T03:30:00Z" title="2021-10-04T03:30:00Z">4 hours ago</time>
+                </span></div><p class="news">This problem arises when your diet is rich in unhealthy fatty foods and on top of that, you live a sedentary life.</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2021-kkr-vs-srh-kolkata-knight-riders-beat-sunrisers-hyderabad-to-stay-on-course/articleshow/86744713.cms" target="_blank" class="news card">
+                <h3 class="news">20<!-- -->. <!-- -->IPL 2021, KKR vs SRH: Kolkata Knight Riders beat Sunrisers Hyderabad to stay on course - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-10-04T03:24:00Z" title="2021-10-04T03:24:00Z">4 hours ago</time>
+                </span></div><p class="news">Cricket News: The KKR bowlers set up the platform by restricting the rivals to 115 for eight and then opener Subhman Gill led from the front to take the side home g</p></a></div>
