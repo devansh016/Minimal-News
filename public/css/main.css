@@ -9,17 +9,19 @@ html{
     --bgSubcards:       rgb(193, 222, 253);
 	  --btnDropShadow:    rgb(171, 171, 171);
     height:100%;
+    --footer: rgb(169,169,169);
 }
 html[data-theme='dark']{
     --bg:               rgb(35, 35, 35);
     --primaryAccent:    rgb(68, 111, 197);
-	  --primaryHoverAccent:rgb(47, 81, 156);
+	--primaryHoverAccent:rgb(47, 81, 156);
     --textDescription:  rgb(140, 140, 172);
     --textHeadlines:    rgb(237, 237, 237, 0.8);
     --cardAccent:       rgb(45, 45, 45);
     --cardHoverAccent:  rgb(35, 49, 83);
     --bgSubcards:       rgb(66, 92, 153);
 	  --btnDropShadow:    rgb(42, 42, 42);
+    --footer:     rgba(37, 38, 40, 1);
   height:100%;
 }
 
@@ -81,7 +83,7 @@ a.navbar {
 }
 
 a.navbar:hover {
-	color: var(--primaryHoverAccent);
+	color: var(--bgSubcards);
 }
 
 .hero.news {
@@ -188,32 +190,55 @@ a.navbar:hover {
 
 
 footer{
-	
 	position: relative;
 	text-align: center;
 	bottom: 0;
 	width: 100%;
-	height: 75px;
-	background-color: rgb(146, 188, 231);
+	height: 5%;
+    background-color: var(--footer);
     box-shadow: 0px 0px 20px rgb(168, 166, 166); 
     margin-bottom : 0;
     flex-shrink: 0;
+    border-radius: 2%;
 }
-.footer-div{
-    padding-top: 20px;
+.bottom{
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap:5px;
+    justify-self: center;
 }
 .footer-button{
     border-radius: 5px;
     padding :5px;
     border : none;
     color:rgb(237, 237, 237);
-    background-color:rgb(51, 51, 51);
+    background-color:var(--primaryHoverAccent);
     cursor:pointer;
     height : 30px;
     font-size : 14px;
+    
+}
+.footer-button:hover{
+    background-color: var(--bgSubcards);
+    color:black
+}
+svg:hover{
+    fill: var(--bgSubcards);
+    color:black
+}
+/*contributors/*/
+.cont{
+   margin-right: 220px;
    
 }
-
+.social-icons{
+    display: flex;
+    gap:10px;
+    flex-wrap: wrap;
+}
 /* Custom Scroll Bar */
 ::-webkit-scrollbar {
     width: 10px;
@@ -319,4 +344,7 @@ html.transition *:after {
 	.card.news .byline.news{
 		padding: 0.75rem 0 5px;
 	}
+    .cont{
+        margin-right: 20px;
+     }
 }
