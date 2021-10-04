@@ -6,7 +6,6 @@ const apiKey = process.env.NEWS_API;
 const country = process.env.NEWS_COUNTRY;
 
 function news_get(countryISO) {
-  console.log("🔥 ", countryISO);
   const country =
     countryISO && countryISO.length > 0 ? countryISO : process.env.NEWS_COUNTRY;
 
@@ -14,8 +13,11 @@ function news_get(countryISO) {
     method: "GET",
     redirect: "follow",
   };
-  let url = `https://newsapi.org/v2/top-headlines?country=${country}&apiKey=${apiKey}&pageSize=${newsSize}`;
-  console.log("🍏 ", url);
+
+  console.log(
+    "🍏 ",
+    `https://newsapi.org/v2/top-headlines?country=${country}&apiKey=${apiKey}&pageSize=${newsSize}`
+  );
   return fetch(url, requestOptions)
     .then((response) => response.json())
     .then((json) => {
