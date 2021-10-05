@@ -188,6 +188,7 @@ fieldset {
 
 /* Theme Invert Icon */
 .invertIcon {
+  z-index: 20;
   box-sizing: content-box;
   height: 25px;
   width: 25px;
