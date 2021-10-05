@@ -1,5 +1,6 @@
 const fs = require("fs");
 const fetch = require("node-fetch");
+const validateArticles = require("../validator/validateArticles");
 require("dotenv").config();
 const newsSize = process.env.PAGE_SIZE;
 const apiKey = process.env.NEWS_API;
@@ -19,6 +20,7 @@ function news_get() {
       let pr;
       pr = "";
       for (var i = 0; i < newsSize; i++) {
+        json.articles[i]=validateArticles(json.articles[i])
         var article_title = json.articles[i].title;
         var article_desc = json.articles[i].description;
         var article_url = json.articles[i].url;
