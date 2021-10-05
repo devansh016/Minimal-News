@@ -1,101 +1,101 @@
 <div class="news row">
-                <a href="https://www.thestatesman.com/technology/science/hubble-telescope-detects-spiral-galaxy-celestial-eye-1503014438.html" target="_blank" class="news card">
-                <h3 class="news">1<!-- -->. <!-- -->Hubble Telescope detects spiral galaxy with celestial eye - The Statesman</h3>
-                <div class="news byline"><span class="news source">The Statesman</span>
-                <span class="news timeago"><time dateTime="2021-10-04T08:15:04Z" title="2021-10-04T08:15:04Z">1 hours ago</time>
-                </span></div><p class="news">Hubble's Wide Field Camera 3 (WFC3) captured the galaxy -- NCG 5728 -- which appears to be elegant and luminous, an ESA statement said.</p></a></div><div class="news row">
-                <a href="https://weather.com/en-IN/india/science/news/2021-10-04-volcanic-eruptions-led-to-rise-of-dinosaurs-230-million-years-ago" target="_blank" class="news card">
-                <h3 class="news">2<!-- -->. <!-- -->Volcanic Eruptions Led to Mega-Monsoons and the Rise of Dinosaurs 230 Million Years Ago: Study | The Weather Channel - Articles from The Weather Channel | weather.com - The Weather Channel</h3>
-                <div class="news byline"><span class="news source">The Weather Channel</span>
-                <span class="news timeago"><time dateTime="2021-10-04T07:58:03Z" title="2021-10-04T07:58:03Z">2 hours ago</time>
-                </span></div><p class="news">The clue from the sediment and fossil plant records obtained from a lake in northern China's Jiyuan Basin matches with four distinct phases of volcanic activity that led to massive environmental changes like CPE. - Articles from The Weather Channel | weather.…</p></a></div><div class="news row">
-                <a href="https://www.ndtv.com/world-news/japan-prime-minister-fumio-kishida-approved-as-japans-next-prime-minister-2562922" target="_blank" class="news card">
-                <h3 class="news">3<!-- -->. <!-- -->Fumio Kishida Approved As Japan's Next Prime Minister - NDTV</h3>
-                <div class="news byline"><span class="news source">NDTV News</span>
-                <span class="news timeago"><time dateTime="2021-10-04T07:28:00Z" title="2021-10-04T07:28:00Z">2 hours ago</time>
-                </span></div><p class="news">Japan's parliament voted Monday to approve Fumio Kishida as prime minister, with the new leader expected to announce a cabinet including both holdovers and fresh faces.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/gadgets-news/apple-may-double-the-storage-option-with-iphone-14/articleshow/86749289.cms" target="_blank" class="news card">
-                <h3 class="news">4<!-- -->. <!-- -->Apple may double the storage option with iPhone 14 - Times of India</h3>
-                <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T07:23:00Z" title="2021-10-04T07:23:00Z">2 hours ago</time>
-                </span></div><p class="news">Apple has already doubled the maximum storage on the iPhone 13 this year. New camera features are one reason for the bump in the storage capacity.</p></a></div><div class="news row">
-                <a href="https://www.ndtv.com/business/ntpc-hopes-to-raise-2-billion-through-ipos-of-3-units-report-2562845" target="_blank" class="news card">
-                <h3 class="news">5<!-- -->. <!-- -->State-Owned Power Giant NTPC Plans 3 IPOs For $2 Billion: Report - NDTV Profit</h3>
-                <div class="news byline"><span class="news source">NDTV News</span>
-                <span class="news timeago"><time dateTime="2021-10-04T07:17:00Z" title="2021-10-04T07:17:00Z">2 hours ago</time>
-                </span></div><p class="news">NTPC has won bids for 2,765 megawatts of renewables projects since the start of the fiscal year in April, 77% more than the whole prior fiscal year.</p></a></div><div class="news row">
-                <a href="https://news.google.com/__i/rss/rd/articles/CBMiwAFodHRwczovL3d3dy5maW5hbmNpYWxleHByZXNzLmNvbS9tYXJrZXQvc2hhcmUtbWFya2V0LXRvZGF5LWxpdmUtdXBkYXRlcy1zZW5zZXgtbmlmdHktcnVwZWUtdnMtZG9sbGFyLXNneC1uaWZ0eS1yZXNlcnZlLWJhbmstb2YtaW5kaWEtbW9uZXRhcnktcG9saWN5LWNvbW1pdHRlZS1yYmktbXBjLW9jdG9iZXItNC1tb25kYXkvMjM0MzE0My_SAcUBaHR0cHM6Ly93d3cuZmluYW5jaWFsZXhwcmVzcy5jb20vbWFya2V0L3NoYXJlLW1hcmtldC10b2RheS1saXZlLXVwZGF0ZXMtc2Vuc2V4LW5pZnR5LXJ1cGVlLXZzLWRvbGxhci1zZ3gtbmlmdHktcmVzZXJ2ZS1iYW5rLW9mLWluZGlhLW1vbmV0YXJ5LXBvbGljeS1jb21taXR0ZWUtcmJpLW1wYy1vY3RvYmVyLTQtbW9uZGF5LzIzNDMxNDMvbGl0ZS8?oc=5" target="_blank" class="news card">
-                <h3 class="news">6<!-- -->. <!-- -->Share Market LIVE: Sensex down from highs, still in green, Nifty above 17600; RIL, bank stocks among gainers - The Financial Express</h3>
-                <div class="news byline"><span class="news source">Google News</span>
-                <span class="news timeago"><time dateTime="2021-10-04T07:04:14Z" title="2021-10-04T07:04:14Z">3 hours ago</time>
-                </span></div><p class="news">null</p></a></div><div class="news row">
-                <a href="https://in.mashable.com/science/25103/earth-is-literally-losing-its-shine-because-of-climate-change" target="_blank" class="news card">
-                <h3 class="news">7<!-- -->. <!-- -->Earth Is Literally Losing Its Shine Because Of Climate Change - Mashable India</h3>
-                <div class="news byline"><span class="news source">Mashable</span>
-                <span class="news timeago"><time dateTime="2021-10-04T06:59:23Z" title="2021-10-04T06:59:23Z">3 hours ago</time>
-                </span></div><p class="news">Our planet isn’t as reflecting as it used to be two decades ago.</p></a></div><div class="news row">
-                <a href="https://www.ndtv.com/world-news/afghanistan-taliban-say-islamic-state-cell-destroyed-after-mosque-attack-in-kabul-2563012" target="_blank" class="news card">
-                <h3 class="news">8<!-- -->. <!-- -->Taliban Say ISIS Cell Destroyed After Mosque Attack In Kabul - NDTV</h3>
-                <div class="news byline"><span class="news source">NDTV News</span>
-                <span class="news timeago"><time dateTime="2021-10-04T06:45:00Z" title="2021-10-04T06:45:00Z">3 hours ago</time>
-                </span></div><p class="news">The Taliban said on Monday they had destroyed an Islamic State cell in the Afghan capital, hours after a suspected IS attack on a mosque killed five people.</p></a></div><div class="news row">
-                <a href="https://www.moneycontrol.com/news/business/kiran-mazumdar-shaw-says-pandora-papers-wrongly-implicates-husbands-offshore-trust-7540231.html" target="_blank" class="news card">
-                <h3 class="news">9<!-- -->. <!-- -->Kiran Mazumdar-Shaw says 'Pandora Papers' wrongly implicates husband's offshore trust - Moneycontrol</h3>
-                <div class="news byline"><span class="news source">Moneycontrol</span>
-                <span class="news timeago"><time dateTime="2021-10-04T06:30:48Z" title="2021-10-04T06:30:48Z">3 hours ago</time>
-                </span></div><p class="news">Millions of leaked documents dubbed as the 'Pandora Papers' by a worldwide journalistic partnership on October 3, claimed to have uncovered financial secrets of current and former world leaders, politicians and public officials in 91 countries and territories…</p></a></div><div class="news row">
-                <a href="https://www.ndtv.com/india-news/assam-congress-mla-arrested-for-controversial-remark-on-those-who-lost-lives-in-1983-agitation-suspended-2562958" target="_blank" class="news card">
-                <h3 class="news">10<!-- -->. <!-- -->Assam Congress MLA, Arrested For Remark On 1983 Agitation, Suspended - NDTV</h3>
-                <div class="news byline"><span class="news source">NDTV News</span>
-                <span class="news timeago"><time dateTime="2021-10-04T06:27:00Z" title="2021-10-04T06:27:00Z">3 hours ago</time>
-                </span></div><p class="news">The Assam Congress today suspended its MLA, Sherman Ali Ahmed, days after he was arrested for making provocative statements on an eviction drive around 40 years ago. In a one-line statement, Congress said that it has suspended Mr Ahmed with immediate</p></a></div><div class="news row">
-                <a href="https://www.hindustantimes.com/entertainment/bollywood/kareena-kapoor-makes-soha-ali-khan-s-chicken-washing-story-public-in-special-birthday-post-see-here-101633326009043.html" target="_blank" class="news card">
-                <h3 class="news">11<!-- -->. <!-- -->Kareena Kapoor makes Soha Ali Khan's chicken washing story public in special birthday post. See here - Hindustan Times</h3>
-                <div class="news byline"><span class="news source">Hindustan Times</span>
-                <span class="news timeago"><time dateTime="2021-10-04T06:11:46Z" title="2021-10-04T06:11:46Z">3 hours ago</time>
-                </span></div><p class="news">Kareena Kapoor, Kunal Kemmu, Saba Ali Khan and others took to social media to wish Soha Ali Khan a happy birthday. | Bollywood</p></a></div><div class="news row">
-                <a href="https://indianexpress.com/article/entertainment/bollywood/hansal-mehta-extends-support-to-shah-rukh-khan-painful-for-a-parent-7550814/" target="_blank" class="news card">
-                <h3 class="news">12<!-- -->. <!-- -->Hansal Mehta extends support to Shah Rukh Khan: ‘Painful for a parent’ - The Indian Express</h3>
+                <a href="https://indianexpress.com/article/entertainment/bollywood/shah-rukh-khan-gets-support-after-son-aryan-khan-arrest-from-shashi-tharoor-to-mika-singh-who-said-what-7553222/" target="_blank" class="news card">
+                <h3 class="news">1<!-- -->. <!-- -->Shah Rukh Khan gets support after son Aryan Khan’s arrest: From Shashi Tharoor to Mika Singh, who said what - The Indian Express</h3>
                 <div class="news byline"><span class="news source">The Indian Express</span>
-                <span class="news timeago"><time dateTime="2021-10-04T06:01:50Z" title="2021-10-04T06:01:50Z">4 hours ago</time>
-                </span></div><p class="news">Shah Rukh Khan's son Aryan Khan was detained late Saturday night by the Narcotics Control Bureau for questioning after drugs were found on the cruise he was on. Aryan was later arrested along with Munmun Dhamecha and Arbaaz Merchant.</p></a></div><div class="news row">
-                <a href="https://www.bollywoodlife.com/south-gossip/chay-sam-divorce-after-confirming-split-with-naga-chaitanya-samantha-akkineni-changes-her-name-to-this-on-social-media-latest-south-film-news-and-gossip-1925353/" target="_blank" class="news card">
-                <h3 class="news">13<!-- -->. <!-- -->Chay-Sam DIVORCE: After confirming split with Naga Chaitanya, Samantha Akkineni CHANGES her name to THIS on s - Bollywood Life</h3>
-                <div class="news byline"><span class="news source">Bollywood Life</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:47:50Z" title="2021-10-04T05:47:50Z">4 hours ago</time>
-                </span></div><p class="news">The actress isn't going again as Samantha Ruth Prabhu. She has decided to change her name to something that makes a statement of sorts.</p></a></div><div class="news row">
-                <a href="https://tech.hindustantimes.com/tv/reviews/samsung-qn90a-neo-qled-4k-tv-review-colour-us-impressed-71633325600256.html" target="_blank" class="news card">
-                <h3 class="news">14<!-- -->. <!-- -->Samsung QN90A Neo QLED 4K TV review: Colour us impressed - HT Tech</h3>
+                <span class="news timeago"><time dateTime="2021-10-05T11:40:39Z" title="2021-10-05T11:40:39Z">1 hours ago</time>
+                </span></div><p class="news">Shah Rukh Khan's colleagues and friends from industry and stalwarts from other sections have been united in their support for him since Aryan Khan's arrest by the NCB.</p></a></div><div class="news row">
+                <a href="https://www.cnbctv18.com/market/stocks/ongc-bpcl-indusind-bank-and-more-key-stocks-that-moved-the-most-on-oct-5-11003232.htm" target="_blank" class="news card">
+                <h3 class="news">2<!-- -->. <!-- -->ONGC, BPCL, IndusInd Bank and more: Key stocks that moved the most on Oct 5 - CNBCTV18</h3>
+                <div class="news byline"><span class="news source">CNBCTV18</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:42:18Z" title="2021-10-05T10:42:18Z">2 hours ago</time>
+                </span></div><p class="news">Bucking the trend in global markets, Indian equity indices closed higher with Nifty50 closing 0.7 percent higher at 17822.30 and Sensex ending at 59744.88, up 0.8 percent.</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/coronavirus-posts-claim-inhaling-hydrogen-peroxide-can-prevent-and-treat-covid-19-heres-why-you-shouldnt-believe-this-rumour/articleshow/86780200.cms" target="_blank" class="news card">
+                <h3 class="news">3<!-- -->. <!-- -->Coronavirus: Posts claim inhaling hydrogen peroxide can prevent and treat COVID-19, here’s why you should - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:41:00Z" title="2021-10-05T10:41:00Z">2 hours ago</time>
+                </span></div><p class="news">Multiple people are now trying and advocating inhalation of hydrogen peroxide to ward off chances of contracting CO</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/world-news/french-bishops-ask-for-forgiveness-after-report-released-on-church-sex-abuse-2564447" target="_blank" class="news card">
+                <h3 class="news">4<!-- -->. <!-- -->French Bishops Seek Forgiveness After Damning Church Sex Abuse Report - NDTV</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:39:00Z" title="2021-10-05T10:39:00Z">2 hours ago</time>
+                </span></div><p class="news">French clergy have sexually abused more than 200,000 children over the past 70 years, a major investigation released on Tuesday found, and its authors accused the Catholic Church of turning a blind eye for too long and urged it to reform.</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-install-windows-11-on-your-laptop-right-now/articleshow/86780127.cms" target="_blank" class="news card">
+                <h3 class="news">5<!-- -->. <!-- -->How to install Windows 11 on your laptop ‘right now’ - Times of India</h3>
+                <div class="news byline"><span class="news source">The Times of India</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:34:00Z" title="2021-10-05T10:34:00Z">2 hours ago</time>
+                </span></div><p class="news">Microsoft has started to roll out the Windows 11 operating system to compatible devices starting today (October 5).</p></a></div><div class="news row">
+                <a href="https://indianexpress.com/article/cities/lucknow/lakhimpur-kheri-violence-after-24-hours-in-detention-priyanka-gandhi-arrested-7553568/" target="_blank" class="news card">
+                <h3 class="news">6<!-- -->. <!-- -->Lakhimpur Kheri violence: After 24 hours in detention, Priyanka Gandhi, Deepender Hooda arrested - The Indian Express</h3>
+                <div class="news byline"><span class="news source">The Indian Express</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:29:54Z" title="2021-10-05T10:29:54Z">3 hours ago</time>
+                </span></div><p class="news">Besides Gandhi and Hooda, those arrested include UP Congress state president Ajay Kumar Lallu and party MLC Deepak Singh.</p></a></div><div class="news row">
+                <a href="https://www.eastmojo.com/science-tech/2021/10/05/gw-orionis-astronomers-discover-massive-planets-orbiting-3-stars/" target="_blank" class="news card">
+                <h3 class="news">7<!-- -->. <!-- -->GW Orionis: Astronomers discover massive planets orbiting 3 stars - EastMojo</h3>
+                <div class="news byline"><span class="news source">EastMojo</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:23:20Z" title="2021-10-05T10:23:20Z">3 hours ago</time>
+                </span></div><p class="news">Our solar system may be slightly kooky compared to most other stars in the Milky Way as astronomers suggest that most stars in our galaxy have their own</p></a></div><div class="news row">
+                <a href="https://www.indiatoday.in/movies/celebrities/story/shahid-kapoor-and-mira-rajput-inspect-their-under-construction-home-see-pic-1861002-2021-10-05" target="_blank" class="news card">
+                <h3 class="news">8<!-- -->. <!-- -->Shahid Kapoor and Mira Rajput inspect their under-construction home. See pic - India Today</h3>
+                <div class="news byline"><span class="news source">India Today</span>
+                <span class="news timeago"><time dateTime="2021-10-05T10:03:13Z" title="2021-10-05T10:03:13Z">3 hours ago</time>
+                </span></div><p class="news">Shahid Kapoor and Mira Rajput recently visited the construction site of their new home in Worli, Mumbai. Sharing their photo, posing on the stairs, Mira wrote ‘one step at a time’.</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/world-news/chinese-air-intrusions-over-taiwan-challenges-us-military-might-in-indopacific-101633427905097.html" target="_blank" class="news card">
+                <h3 class="news">9<!-- -->. <!-- -->Chinese air intrusions over Taiwan challenges US military might in Indo-Pacific - Hindustan Times</h3>
                 <div class="news byline"><span class="news source">Hindustan Times</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:33:19Z" title="2021-10-04T05:33:19Z">4 hours ago</time>
-                </span></div><p class="news">If you are looking for a good investment to make for your home entertainment system, the Samsung Neo QLED 4K TVs are definitely worth considering.</p></a></div><div class="news row">
-                <a href="https://www.gsmarena.com/coloros_12_public_beta_arrives_oneplus_9_phones_first_in_line_to_get_it-news-51247.php" target="_blank" class="news card">
-                <h3 class="news">15<!-- -->. <!-- -->ColorOS 12 public beta arrives, OnePlus 9 phones first in line to get it - GSMArena.com news - GSMArena.com</h3>
-                <div class="news byline"><span class="news source">GSMArena.com</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:31:01Z" title="2021-10-04T05:31:01Z">4 hours ago</time>
-                </span></div><p class="news">The Find X3 phones are also eligible for it.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/restless-anal-syndrome-a-post-covid-complication-causing-deep-anal-discomfort-heres-everything-we-know-so-far/photostory/86725164.cms" target="_blank" class="news card">
-                <h3 class="news">16<!-- -->. <!-- -->Restless Anal Syndrome: A post-COVID complication causing deep anal discomfort, here's everything we know so far - Times of India</h3>
+                <span class="news timeago"><time dateTime="2021-10-05T10:03:03Z" title="2021-10-05T10:03:03Z">3 hours ago</time>
+                </span></div><p class="news">If China is allowed to capture fortress Taiwan uncontested, Senkaku Islands and so called South Tibet are next in line. | World News</p></a></div><div class="news row">
+                <a href="https://www.livemint.com/industry/energy/energy-crisis-four-days-worth-of-coal-left-in-india-lowest-in-years-11633427252557.html" target="_blank" class="news card">
+                <h3 class="news">10<!-- -->. <!-- -->Energy crisis: Four days worth of coal left in India, lowest in years - Mint</h3>
+                <div class="news byline"><span class="news source">Livemint</span>
+                <span class="news timeago"><time dateTime="2021-10-05T09:53:24Z" title="2021-10-05T09:53:24Z">3 hours ago</time>
+                </span></div><p class="news">Power Minister Raj Kumar Singh said in an interview, 'I don’t know whether I will be comfortable in the next five to six, four to five months'.In at least a portion of India’s coal fleet the situation has deteriorated in the past week, according to Singh</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/world/rest-of-world/syukuro-manabe-klaus-hasselmann-and-giorgio-parisi-get-nobel-prize-in-physics/articleshow/86778359.cms" target="_blank" class="news card">
+                <h3 class="news">11<!-- -->. <!-- -->Trio get Physics Nobel for discoveries in climate, complex physical systems - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:30:00Z" title="2021-10-04T05:30:00Z">4 hours ago</time>
-                </span></div><p class="news">Not only is coronavirus known for its wide range of symptoms, but it also leaves a long-lasting impact on people infected with the same. Long COVID or post-COVID syndrome has deeply impacted the lives of many.</p></a></div><div class="news row">
-                <a href="https://economictimes.indiatimes.com/industry/renewables/gautam-adani-seals-the-largest-deal-in-indias-renewable-sector-with-sb-energy-buy-for-3-5-billion/articleshow/86746686.cms" target="_blank" class="news card">
-                <h3 class="news">17<!-- -->. <!-- -->Gautam Adani seals the largest deal in India's renewable sector with SB Energy buy for $3.5 billion - Economic Times</h3>
+                <span class="news timeago"><time dateTime="2021-10-05T09:52:00Z" title="2021-10-05T09:52:00Z">3 hours ago</time>
+                </span></div><p class="news">Rest of World News: The 2021 Nobel Prize for physics has been awarded jointly to Syukuro Manabe, Klaus Hasselmann and Giorgio Parisi “for groundbreaking contributions to</p></a></div><div class="news row">
+                <a href="https://news.google.com/__i/rss/rd/articles/CBMiXGh0dHBzOi8vd3d3Lmdpem1vY2hpbmEuY29tLzIwMjEvMTAvMDUvYXBwbGUtaXBob25lLTEzLXByby1tYXgtbGVhZC1keG9tYXJrcy1kaXNwbGF5LXJhbmtpbmcv0gEA?oc=5" target="_blank" class="news card">
+                <h3 class="news">12<!-- -->. <!-- -->Apple iPhone 13 Pro Max becomes the display leader on DxOMark - gizmochina</h3>
+                <div class="news byline"><span class="news source">Google News</span>
+                <span class="news timeago"><time dateTime="2021-10-05T09:42:17Z" title="2021-10-05T09:42:17Z">3 hours ago</time>
+                </span></div><p class="news">null</p></a></div><div class="news row">
+                <a href="https://www.ndtv.com/india-news/chhattisgarh-chief-minister-bhupesh-baghel-tweets-video-of-being-stopped-from-leaving-lucknow-airport-says-i-am-not-going-to-lakhimpur-2564397" target="_blank" class="news card">
+                <h3 class="news">13<!-- -->. <!-- -->Chhattisgarh Chief Minister Stopped At Lucknow Airport, Sits On Floor - NDTV</h3>
+                <div class="news byline"><span class="news source">NDTV News</span>
+                <span class="news timeago"><time dateTime="2021-10-05T09:26:05Z" title="2021-10-05T09:26:05Z">4 hours ago</time>
+                </span></div><p class="news">Chhattisgarh Chief Minister Bhupesh Baghel was seen sitting on the floor outside the Lucknow airport in a photo he tweeted after he was stopped today by police amid widespread protests against eight deaths in Uttar Pradesh's Lakhimpur district, about</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/india-news/gandhinagar-municipal-corporation-election-result-bjp-wins-41-out-of-44-seats-101633423505696.html" target="_blank" class="news card">
+                <h3 class="news">14<!-- -->. <!-- -->Gandhinagar Municipal Corporation election result: BJP wins 41 out of 44 seats - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-10-05T09:01:42Z" title="2021-10-05T09:01:42Z">4 hours ago</time>
+                </span></div><p class="news">The results have been a major setback for Congress and the Aam Aadmi Party (AAP) that won two and one seats respectively. | Latest News India</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/india-news/air-force-should-get-s-400-within-this-year-air-chief-marshal-vr-chaudhari-101633422683896.html" target="_blank" class="news card">
+                <h3 class="news">15<!-- -->. <!-- -->Air Force should get S-400 within this year: Air Chief Marshal VR Chaudhari - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-10-05T08:39:44Z" title="2021-10-05T08:39:44Z">4 hours ago</time>
+                </span></div><p class="news">The Air Force chief also said that China's capability to launch multiple high altitude missions would remain weak, adding that the induction of Rafale, Apaches have significantly added to the force's combat potential. | Latest News India</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/these-easy-activities-can-prevent-the-progression-of-dementia-as-per-study/photostory/86776678.cms" target="_blank" class="news card">
+                <h3 class="news">16<!-- -->. <!-- -->These easy activities can prevent the progression of dementia, as per study - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:17:00Z" title="2021-10-04T05:17:00Z">4 hours ago</time>
-                </span></div><p class="news">This transaction takes AGEL closer to becoming the global leader in renewables, said Vneet S Jaain, MD and CEO, AGEL in the statement.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/akshay-kumar-shoots-for-aanand-l-rais-raksha-bandhan-at-his-birthplace-chandni-chowk-says-brought-back-so-many-memories/articleshow/86746466.cms" target="_blank" class="news card">
-                <h3 class="news">18<!-- -->. <!-- -->Akshay Kumar shoots for Aanand L Rai's 'Raksha Bandhan' at his birthplace, Chandni Chowk; says 'brought b - Times of India</h3>
+                <span class="news timeago"><time dateTime="2021-10-05T08:30:00Z" title="2021-10-05T08:30:00Z">5 hours ago</time>
+                </span></div><p class="news">Dementia is a group of symptoms that can range from memory loss to impaired thinking and problem-solving abilities that usually occurs in old age. Alzheimers is the most common cause of progressive dementia, which according to a recent study can be prevented …</p></a></div><div class="news row">
+                <a href="https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2021-rishabh-pant-and-shreyas-iyer-feed-off-each-other-their-batting-styles-are-complementary-says-delhi-capitals-bowling-coach-james-hopes/articleshow/86777453.cms" target="_blank" class="news card">
+                <h3 class="news">17<!-- -->. <!-- -->IPL 2021: Rishabh Pant and Shreyas Iyer feed off each other, their batting styles are complementary, says - Times of India</h3>
                 <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T05:05:00Z" title="2021-10-04T05:05:00Z">5 hours ago</time>
-                </span></div><p class="news">Akshay Kumar, who was busy shooting for his next film in London, has returned to India to start shooting for the ne</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/india/politics-heats-up-over-lakhimpur-kheri-incident-key-developments/articleshow/86746168.cms" target="_blank" class="news card">
-                <h3 class="news">19<!-- -->. <!-- -->Priyanka Gandhi detained, Akhilesh Yadav arrested, Sec 144 in Lucknow: Key developments - Times of India</h3>
-                <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T04:46:00Z" title="2021-10-04T04:46:00Z">5 hours ago</time>
-                </span></div><p class="news">India News: NEW DELHI: What began as another regulation protest by farmers in UP's Lakhimpur Kheri against the new farm laws, took an ugly turn after a vehicle al.</p></a></div><div class="news row">
-                <a href="https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/ipl-2021-dc-vs-csk-understudy-rishabh-pant-up-against-mentor-ms-dhoni-in-battle-for-top-spot/articleshow/86745634.cms" target="_blank" class="news card">
-                <h3 class="news">20<!-- -->. <!-- -->IPL 2021, DC vs CSK: Understudy Rishabh Pant up against mentor MS Dhoni in battle for top spot - Times of India</h3>
-                <div class="news byline"><span class="news source">The Times of India</span>
-                <span class="news timeago"><time dateTime="2021-10-04T04:18:00Z" title="2021-10-04T04:18:00Z">5 hours ago</time>
-                </span></div><p class="news">Cricket News: MS Dhoni's legacy has hung like a shadow over Rishabh Pant's career. He has been forever proving that he is the ideal player to take Dhoni's mantle be</p></a></div>
+                <span class="news timeago"><time dateTime="2021-10-05T08:29:00Z" title="2021-10-05T08:29:00Z">5 hours ago</time>
+                </span></div><p class="news">Cricket News: Delhi Capitals' bowling coach, former Australian cricketer James Hopes wants Rishabh Pant's men to be focussed this time and wants them to take it one</p></a></div><div class="news row">
+                <a href="https://www.bloombergquint.com/law-and-policy/government-to-reconsider-its-stand-one-time-spectrum-charge-on-telecom-operators" target="_blank" class="news card">
+                <h3 class="news">18<!-- -->. <!-- -->Government To Reconsider Its Stand On One-Time Spectrum Charge On Telecom Operators - BloombergQuint</h3>
+                <div class="news byline"><span class="news source">BloombergQuint</span>
+                <span class="news timeago"><time dateTime="2021-10-05T08:14:16Z" title="2021-10-05T08:14:16Z">5 hours ago</time>
+                </span></div><p class="news">Supreme Court grants the government three weeks to reconsider its stand on one time spectrum dues.</p></a></div><div class="news row">
+                <a href="https://www.hindustantimes.com/india-news/my-detractors-have-more-reasons-to-oppose-me-pm-modi-at-lucknow-event-101633421199067.html" target="_blank" class="news card">
+                <h3 class="news">19<!-- -->. <!-- -->My detractors have more reasons to oppose me: PM Modi at Lucknow event - Hindustan Times</h3>
+                <div class="news byline"><span class="news source">Hindustan Times</span>
+                <span class="news timeago"><time dateTime="2021-10-05T08:12:18Z" title="2021-10-05T08:12:18Z">5 hours ago</time>
+                </span></div><p class="news">Speaking at an event where he digitally handed over keys of PMAY-U houses to 75,000 beneficiaries, Modi said urban planning used to be a victim of politics under previous regimes. Not even 18 houses were constructed against a sanction of 18,000, he said. | La…</p></a></div><div class="news row">
+                <a href="https://www.indiatoday.in/sports/ipl-2021/story/ipl-2021-umran-malik-a-product-of-tennis-ball-cricket-says-parvez-rasool-1860949-2021-10-05" target="_blank" class="news card">
+                <h3 class="news">20<!-- -->. <!-- -->IPL 2021: Speedster Umran Malik, a product of tennis ball cricket - Jammu and Kashmir captain Parvez Rasool - India Today</h3>
+                <div class="news byline"><span class="news source">India Today</span>
+                <span class="news timeago"><time dateTime="2021-10-05T08:11:26Z" title="2021-10-05T08:11:26Z">5 hours ago</time>
+                </span></div><p class="news">Jammu and Kashmir skipper Parvez Rasool on Tuesday showered praise on Sunrisers Hyderabad speedster Umran Malik, who tormented the Kolkata Knight Riders batsmen on his Indian Premier League 2021 debut with his sheer pace, clocking 150kmph.</p></a></div>

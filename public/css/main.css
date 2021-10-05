@@ -38,43 +38,36 @@ body {
   min-height: 100%;
 }
 
-nav.navbar {
-  user-select: none;
-  text-align: center;
+nav {
   max-width: 880px;
   margin: 0 auto;
-}
-
-#app-name {
-  padding-left: 60px;
-  font-size: 2rem;
-}
-
-ul.navbar {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: justify;
-  -webkit-justify-content: space-between;
-  -ms-flex-pack: justify;
+  align-items: center;
   justify-content: space-between;
-  align-items: baseline;
+  padding: 15px 0;
 }
 
-nav.navbar > ul.navbar {
-  padding: 4px 10px;
-}
-
-li.navbar {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
+.navbar-item {
   display: flex;
-  padding: 6px 8px;
+  align-items: center;
+  justify-content: center;
 }
 
-a.navbar {
+nav .logo {
+  height: 50px;
+}
+
+nav .icon {
+  height: 32px;
+  margin-left: 10px;
+}
+
+.nav-item {
+  display: flex;
+  align-items: center;
+}
+
+nav a {
   color: var(--primaryAccent);
   font-weight: 600;
   -webkit-text-decoration: none;
@@ -83,8 +76,12 @@ a.navbar {
   transition: 0.2s all;
 }
 
-a.navbar:hover {
-  color: var(--primaryHoverAccent);
+nav a:hover {
+  text-decoration: underline;
+}
+
+.menu a {
+  padding-right: 10px;
 }
 
 .hero.news {
@@ -193,25 +190,13 @@ footer {
   position: relative;
   text-align: center;
   bottom: 0;
+  color: var(--textHeadlines);
   width: 100%;
-  height: 75px;
-  background-color: rgb(146, 188, 231);
-  box-shadow: 0px 0px 20px rgb(168, 166, 166);
-  margin-bottom: 0;
+  background-color: var(--bgSubcards);
+  margin-top: 30px;
+  padding: 20px 0;
   flex-shrink: 0;
-}
-.footer-div {
-  padding-top: 20px;
-}
-.footer-button {
-  border-radius: 5px;
-  padding: 5px;
-  border: none;
-  color: rgb(237, 237, 237);
-  background-color: rgb(51, 51, 51);
-  cursor: pointer;
-  height: 30px;
-  font-size: 14px;
+  font-weight: bold;
 }
 
 /* Custom Scroll Bar */
@@ -242,8 +227,6 @@ html {
   border-radius: 50%;
   border: solid 5px var(--bgSubcards);
   background-color: var(--bgSubcards);
-  margin-top: -0.5rem;
-  margin-left: 2vw;
   display: inline;
   color: var(--textHeadlines);
   cursor: pointer;
