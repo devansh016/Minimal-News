@@ -309,7 +309,7 @@ html.transition *:after {
   }
 
   #scroll-to-top.active {
-    bottom: 80px;
+    bottom: 20px;
   }
 
   body {
