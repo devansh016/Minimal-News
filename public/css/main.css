@@ -305,7 +305,9 @@ html.transition *:after {
   }
 
   #scroll-to-top {
-    right: 18px;
+    right: 12px;
+    height:38px;
+    width: 38px;
   }
 
   #scroll-to-top.active {
