@@ -217,12 +217,6 @@ fieldset {
     padding: 0px;
     font-size: 3rem;
   }
-  .invertIcon {
-    position: fixed;
-    bottom: 50px;
-    right: 50px;
-    transform: scale(1.8);
-  }
   body {
     padding-bottom: 70px;
   }
