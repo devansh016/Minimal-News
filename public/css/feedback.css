@@ -205,6 +205,50 @@ fieldset {
   font-size: 1.5rem;
 }
 
+/*footer*/
+
+footer {
+  position: relative;
+  bottom: 0;
+  color: var(--textHeadlines);
+  background-color: var(--bgSubcards);
+  margin-top: 30px;
+  padding: 20px 0;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+footer .main-content .title {
+  font-weight: bold;
+  text-align: left;
+}
+
+footer .main-content .sub-title {
+  text-align: left;
+  max-width: 55%;
+  line-height: 1.5rem;
+}
+
+footer .links {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+  line-height: 1.5rem;
+}
+
+footer .links .link {
+  color: var(--textHeadlines);
+  text-decoration: none;
+}
+
+footer .links .link:hover {
+  color: var(--textHeadlines);
+  text-decoration: underline;
+}
+
 @media screen and (max-width: 600px) {
   ul.navbar {
     flex-direction: column;
@@ -219,5 +263,15 @@ fieldset {
   }
   body {
     padding-bottom: 70px;
+  }
+  footer {
+    align-items: flex-start;
+    justify-content: space-evenly;
+    flex-direction: column;
+    padding-left: 2rem;
+  }
+
+  footer .main-content .sub-title{
+    max-width: 75%;
   }
 }
