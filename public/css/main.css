@@ -338,7 +338,7 @@ html.transition *:after {
   }
 
   #scroll-to-top.active {
-    bottom: 80px;
+    bottom: 18px;
   }
 
   body {
