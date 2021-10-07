@@ -70,6 +70,11 @@ a.navbar {
   -webkit-text-decoration: none;
   text-decoration: none;
   font-size: 1rem;
+  transition: 0.2s all;
+}
+
+a.navbar:hover {
+  color: var(--primaryHoverAccent);
 }
 
 .contactContainer {
@@ -216,12 +221,12 @@ fieldset {
     padding: 0px;
     font-size: 3rem;
   }
-  .invertIcon {
+  /* .invertIcon {
     position: fixed;
     bottom: 50px;
     right: 50px;
     transform: scale(1.8);
-  }
+  } */
   body {
     padding-bottom: 70px;
   }
