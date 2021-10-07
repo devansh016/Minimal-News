@@ -118,4 +118,6 @@ dist
 .pnp.*
 
 # demo articles
-newsArticles.txt
+res/newsArticles.txt
+
+package-lock.json
