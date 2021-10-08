@@ -57,7 +57,7 @@ Your app should now be running on [localhost](http://localhost/) at port 80.
 
 ![Minimal News Home Light](/res/images/minimalnews_light.png "Minimal News Homepage Light")
 
-![Minimal News Contributors Light](/res/images/contributors_light.PNG "Minimal News Contributors Light")
+![Minimal News Contributors Light](/res/images/contributors_light.png "Minimal News Contributors Light")
 
 ### Dark Mode
 
