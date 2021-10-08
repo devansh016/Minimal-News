@@ -53,8 +53,7 @@ nav {
   justify-content: center;
 }
 
-nav .logo,
-.logo-sm {
+nav .logo {
   height: 50px;
 }
 
@@ -89,17 +88,9 @@ nav a:hover {
   display: none;
 }
 
-.logo-sm {
-  display: none;
-}
-
 @media only screen and (max-width: 600px) {
-  .logo {
-    display: none;
-  }
-  
-  .logo-sm {
-    display: block;
+  nav .logo {
+    height: 40px;
   }
 
   nav {
@@ -338,7 +329,7 @@ html.transition *:after {
   }
 
   #scroll-to-top.active {
-    bottom: 80px;
+    bottom: 18px;
   }
 
   body {
