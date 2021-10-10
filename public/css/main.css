@@ -12,6 +12,7 @@ html {
   scroll-behavior: smooth;
   height: 100%;
 }
+
 html[data-theme="dark"] {
   --bg: rgb(35, 35, 35);
   --primaryAccent: rgb(68, 111, 197);
@@ -27,14 +28,13 @@ html[data-theme="dark"] {
 
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica,
-    sans-serif;
+  font-family: -apple-system, BlinkMacSystemFont, Avenir Next, Avenir, Helvetica, sans-serif;
   background-color: var(--bg);
   height: 100%;
 }
 
 .wrapper {
-  height: auto !important;
+  height: auto;
   min-height: 100%;
 }
 
