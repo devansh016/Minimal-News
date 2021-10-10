@@ -31,7 +31,7 @@ Your app should now be running on [localhost](http://localhost/) at port 80.
 
 ## Make Your First Contribution
 
-1. Fork this repository, **star this repository** , and clone it onto your machine.
+1. Fork this repository, **star this repository** , and clone it onto your pc.
    ```
    git clone https://github.com/<my_account>/Minimal-News.git
    ```
