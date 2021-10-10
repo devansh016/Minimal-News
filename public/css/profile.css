@@ -72,7 +72,7 @@ html[data-theme="dark"] {
 .button {
   background-color: var(--cardAccent); /* Green */
   border: none;
-  color: white;
+  color: #FFFFFF;
   padding: 10px 20px;
   text-align: center;
   text-decoration: none;
