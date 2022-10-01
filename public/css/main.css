@@ -269,10 +269,10 @@ html {
   height: 25px;
   width: 25px;
   border-radius: 50%;
-  border: solid 5px var(--bgSubcards);
-  background-color: var(--bgSubcards);
+  border: solid 5px rgb(92, 107, 192);
+  background-color: rgb(92, 107, 192);
   display: inline;
-  color: var(--textHeadlines);
+  color: var(--bg);
   cursor: pointer;
 }
 
@@ -285,8 +285,8 @@ html {
   position: fixed;
   width: 50px;
   height: 50px;
-  background: var(--bgSubcards);
-  color: var(--textHeadlines);
+  background: rgb(92, 107, 192);
+  color: var(--bg);
   right: 20px;
   text-decoration: none;
   border-radius: 50%;
@@ -295,6 +295,7 @@ html {
   opacity: 0;
   pointer-events: none;
   transition: all 300ms;
+  box-shadow: 0 0 100px black;
 }
 
 #scroll-to-top.active {
