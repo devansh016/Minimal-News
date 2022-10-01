@@ -295,6 +295,7 @@ html {
   opacity: 0;
   pointer-events: none;
   transition: all 300ms;
+  box-shadow: 0 0 100px black;
 }
 
 #scroll-to-top.active {
